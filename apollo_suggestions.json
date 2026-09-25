@@ -1,7 +1,22 @@
 {
- "generated_at": "2026-09-25T08:41:54.535646+00:00",
+ "generated_at": "2026-09-25T08:42:03.649631+00:00",
  "suggestions_url": "https://raw.githubusercontent.com/brandonduda8/genesis-catalog/master/apollo_suggestions.json",
  "pending": [
+  {
+   "id": "AL-0023",
+   "audius_id": "GNRNv",
+   "artist": "Fat Nick",
+   "title": "Living Large (Feat. Maxo Kream) ",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/GNRNv/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "genre": "Hip-Hop/Rap",
+   "score": 13.63,
+   "why": "fits your Fat Nick lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.58 (blend weight 0.4) — Rap Rotation pick; artist's own Audius upload, stream re-verified playable",
+   "status": "pending",
+   "suggested_at": "2026-09-25T08:40:51.880285+00:00",
+   "decided_at": null,
+   "playlist": "Rap Rotation"
+  },
   {
    "id": "AL-0024",
    "audius_id": "mRWyp",
