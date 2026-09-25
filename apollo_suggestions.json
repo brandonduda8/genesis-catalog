@@ -1,20 +1,7 @@
 {
- "generated_at": "2026-09-25T06:43:11.664413+00:00",
+ "generated_at": "2026-09-25T06:44:24.345490+00:00",
  "suggestions_url": "https://raw.githubusercontent.com/brandonduda8/genesis-catalog/master/apollo_suggestions.json",
  "pending": [
-  {
-   "id": "AL-0001",
-   "audius_id": "8Z2Yl",
-   "artist": "Powfu",
-   "title": ".xxxxxxx.xx.xxxxxxxxx",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/8Z2Yl/stream?app_name=APOLLOHUNT",
-   "genre": "Alternative",
-   "score": 13.72,
-   "why": "fits your Powfu lane (affinity 1.4); Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
-   "status": "pending",
-   "suggested_at": "2026-09-25T06:42:47.523287+00:00",
-   "decided_at": null
-  },
   {
    "id": "AL-0002",
    "audius_id": "OWEY1",
