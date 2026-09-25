@@ -1,0 +1,71 @@
+{
+ "generated_at": "2026-09-25T06:43:11.664413+00:00",
+ "suggestions_url": "https://raw.githubusercontent.com/brandonduda8/genesis-catalog/master/apollo_suggestions.json",
+ "pending": [
+  {
+   "id": "AL-0001",
+   "audius_id": "8Z2Yl",
+   "artist": "Powfu",
+   "title": ".xxxxxxx.xx.xxxxxxxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/8Z2Yl/stream?app_name=APOLLOHUNT",
+   "genre": "Alternative",
+   "score": 13.72,
+   "why": "fits your Powfu lane (affinity 1.4); Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "status": "pending",
+   "suggested_at": "2026-09-25T06:42:47.523287+00:00",
+   "decided_at": null
+  },
+  {
+   "id": "AL-0002",
+   "audius_id": "OWEY1",
+   "artist": "My Friend Jimi",
+   "title": "lonely girl ",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/OWEY1/stream?app_name=APOLLOHUNT",
+   "genre": "Alternative",
+   "score": 9.8,
+   "why": "Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "status": "pending",
+   "suggested_at": "2026-09-25T06:43:00.702830+00:00",
+   "decided_at": null
+  },
+  {
+   "id": "AL-0003",
+   "audius_id": "NlbVN",
+   "artist": "Heads Over Dreams ",
+   "title": "you mean the world to me ",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NlbVN/stream?app_name=APOLLOHUNT",
+   "genre": "Hip-Hop/Rap",
+   "score": 9.45,
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "status": "pending",
+   "suggested_at": "2026-09-25T06:43:04.502789+00:00",
+   "decided_at": null
+  },
+  {
+   "id": "AL-0004",
+   "audius_id": "4zEyZ",
+   "artist": "The City Kid",
+   "title": "Numb",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/4zEyZ/stream?app_name=APOLLOHUNT",
+   "genre": "Hip-Hop/Rap",
+   "score": 9.45,
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "status": "pending",
+   "suggested_at": "2026-09-25T06:43:09.235222+00:00",
+   "decided_at": null
+  },
+  {
+   "id": "AL-0005",
+   "audius_id": "Bjbwo1",
+   "artist": "AKTHESAVIOR",
+   "title": "Yukina's Tears",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Bjbwo1/stream?app_name=APOLLOHUNT",
+   "genre": "Hip-Hop/Rap",
+   "score": 9.45,
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "status": "pending",
+   "suggested_at": "2026-09-25T06:43:11.664381+00:00",
+   "decided_at": null
+  }
+ ]
+}
