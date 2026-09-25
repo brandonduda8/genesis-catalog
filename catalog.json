@@ -1,7 +1,7 @@
 {
- "version": 4,
- "generated_at": "2026-09-25T07:13:24.701103+00:00",
- "track_count": 358,
+ "version": 5,
+ "generated_at": "2026-09-25T08:34:33.322310+00:00",
+ "track_count": 373,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -1060,6 +1060,21 @@
    ]
   },
   {
+   "artist": "middle child",
+   "title": "middle child - goodbye(s)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/QRZzw/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fresh blood — not in your rotation yet; Punk is a high-weight genre (1.3); hits your Melancholy register (1.6) — taste score 16.64 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Punk",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "MARKPAIN",
    "title": "Hip Hop king",
    "audius_stream_url": "https://api.audius.co/v1/tracks/dRYppNP/stream?app_name=APOLLOHUNT",
@@ -1820,6 +1835,21 @@
    "playlist": "Hermes",
    "playlists": [
     "Hermes",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Blythelyبب",
+   "title": "Streetlights",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/GQBJvdm/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fresh blood — not in your rotation yet; Alternative is a high-weight genre (1.4); hits your Yearning register (1.6) — taste score 15.63 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3309,6 +3339,21 @@
    ]
   },
   {
+   "artist": "ollie 🌌",
+   "title": "pain changes people ft. billie eilish",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/gbr7k/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same honest pain-rap lane as honestav, your most-liked artist — honestav fans reach for this next; Hip-Hop/Rap is a high-weight genre (1.35); hits your Melancholy register (1.6) — taste score 26.38 — ",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "Dreamer",
    "audius_stream_url": "",
@@ -3353,6 +3398,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "FATFAT DRUMS",
+   "title": "DIAMONDS",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/OJ73AoQ/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same honest pain-rap lane as honestav, your most-liked artist — honestav fans reach for this next; Hip-Hop/Rap is a high-weight genre (1.35); hits your Sentimental register (1.6) — taste score 25.29 —",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3405,6 +3465,21 @@
    ]
   },
   {
+   "artist": "Ramaj Eroc",
+   "title": "My Damaged Definition of Love f. CRiDDLE (prod. Ramaj Eroc)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/lW7db/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same dark witch-house lane as Witchouse 40k's Soul Scars; Hip-Hop/Rap is a high-weight genre (1.35); hits your Melancholy register (1.6) — taste score 21.94 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "As Simple As They Seem",
    "audius_stream_url": "",
@@ -3449,6 +3524,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Deenight",
+   "title": "Freya",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/YV4OW/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same dark witch-house lane as Witchouse 40k's Soul Scars; Hip-Hop/Rap is a high-weight genre (1.35); hits your Melancholy register (1.6) — taste score 20.23 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3501,6 +3591,21 @@
    ]
   },
   {
+   "artist": "SELTRAH",
+   "title": "Time Bomb",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Kvq6O/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same dark witch-house lane as Witchouse 40k's Soul Scars; Hip-Hop/Rap is a high-weight genre (1.35); hits your Brooding register (1.5) — taste score 19.78 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "LUCID",
    "audius_stream_url": "",
@@ -3529,6 +3634,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "SELTRAH",
+   "title": "SHOTGUN FACELIFT (prod. GHXST)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/aZRya/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fresh blood — not in your rotation yet; Hip-Hop/Rap is a high-weight genre (1.35); hits your Sentimental register (1.6) — taste score 17.56 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3565,6 +3685,21 @@
    ]
   },
   {
+   "artist": "Polar Bear",
+   "title": "PICTURES",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/OgNkz/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same dark witch-house lane as Witchouse 40k's Soul Scars; Hip-Hop/Rap is a high-weight genre (1.35); tags 'emo' (1.3) — taste score 17.14 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "Shine Bright",
    "audius_stream_url": "",
@@ -3593,6 +3728,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Polar Bear",
+   "title": "SO SAD",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/1EMJr/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same dark witch-house lane as Witchouse 40k's Soul Scars; Hip-Hop/Rap is a high-weight genre (1.35); tags 'emo' (1.3) — taste score 17.14 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3629,6 +3779,21 @@
    ]
   },
   {
+   "artist": "3SM",
+   "title": "Tragedy of Broken Hearts",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/vZ95xom/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same honest pain-rap lane as honestav, your most-liked artist — honestav fans reach for this next; Hip-Hop/Rap is a high-weight genre (1.35); hits your Sentimental register (1.6) — taste score 16.88 —",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "Phased",
    "audius_stream_url": "",
@@ -3657,6 +3822,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ollie 🌌",
+   "title": "where do we all go",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/B5pZj/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "same honest pain-rap lane as honestav, your most-liked artist — honestav fans reach for this next; Hip-Hop/Rap is a high-weight genre (1.35); hits your Melancholy register (1.6) — taste score 16.88 — ",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -3693,6 +3873,21 @@
    ]
   },
   {
+   "artist": "Yung Squad",
+   "title": "Freeway Lights",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/DEjGo/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fresh blood — not in your rotation yet; Hip-Hop/Rap is a high-weight genre (1.35); hits your Yearning register (1.6) — taste score 16.88 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "LOST IN my EYEdeas",
    "audius_stream_url": "",
@@ -3725,6 +3920,21 @@
    ]
   },
   {
+   "artist": "colours in the dark",
+   "title": "Insomnia Dream",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/lzM7Q/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fresh blood — not in your rotation yet; Hip-Hop/Rap is a high-weight genre (1.35); hits your Sentimental register (1.6) — taste score 16.2 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tha Aadity",
    "title": "Frieds With Death",
    "audius_stream_url": "",
@@ -3753,6 +3963,21 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "AnT",
+   "title": "KEEP IT P ( FT:KING JUICE",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/BNKY161/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "golden-god rap: triumphant, empire-building energy — your victory lane; Hip-Hop/Rap is a high-weight genre (1.35) — taste score 11.14 — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
