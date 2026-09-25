@@ -1,7 +1,7 @@
 {
  "version": 3,
- "generated_at": "2026-09-25T06:43:21.664736+00:00",
- "track_count": 352,
+ "generated_at": "2026-09-25T06:47:14.599481+00:00",
+ "track_count": 358,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -4224,6 +4224,78 @@
    "why": "fits your Powfu lane (affinity 1.4); Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
    "verified_206": true,
    "genre": "Alternative",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "My Friend Jimi",
+   "title": "lonely girl ",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/OWEY1/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "Heads Over Dreams ",
+   "title": "you mean the world to me ",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NlbVN/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "The City Kid",
+   "title": "Numb",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/4zEyZ/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "AKTHESAVIOR",
+   "title": "Yukina's Tears",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Bjbwo1/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "Fatal Nightmare",
+   "title": "Pain Is Gone",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/5xWJx/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 7/10 in Metal — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Metal",
+   "mood": "",
+   "playlist": ""
+  },
+  {
+   "artist": "Mack Jugo",
+   "title": "Numb (Audius Early Release)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/jlY4xa4/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 7/10 in R&B/Soul — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "R&B/Soul",
    "mood": "",
    "playlist": ""
   }
