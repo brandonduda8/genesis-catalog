@@ -1,7 +1,7 @@
 {
- "version": 2,
- "generated_at": "2026-09-25T06:11:45.673012+00:00",
- "track_count": 351,
+ "version": 3,
+ "generated_at": "2026-09-25T06:43:21.664736+00:00",
+ "track_count": 352,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -4214,6 +4214,18 @@
    "genre": "Soundtrack",
    "mood": "",
    "playlist": "Ember"
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxxxxx.xx.xxxxxxxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/8Z2Yl/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); Alternative is a high-weight genre (1.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": ""
   }
  ]
 }
