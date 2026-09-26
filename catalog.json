@@ -1,7 +1,7 @@
 {
- "version": 7,
- "generated_at": "2026-09-26T08:37:08.449939+00:00",
- "track_count": 527,
+ "version": 8,
+ "generated_at": "2026-09-26T08:40:33.650229+00:00",
+ "track_count": 531,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -1820,14 +1820,14 @@
   },
   {
    "artist": "Honestav",
-   "title": "Stuck On The Floor",
+   "title": "They Dont Make Pills For a Heartbreak",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/honestav/stuck-on-the-floor",
+   "soundcloud_url": "https://soundcloud.com/honestav/they-dont-make-pills-for-a",
    "source": "spanda-swarm",
-   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — director's cut addition. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Heavy",
+   "mood": "Desolate",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -2056,19 +2056,18 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "the way i see things (prod. kryptik)",
+   "artist": "Honestav",
+   "title": "Stuck On The Floor",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/the-way-i-see-things-prod-kryptik",
-   "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "soundcloud_url": "https://soundcloud.com/honestav/stuck-on-the-floor",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Heavy",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
-    "Rap Rotation",
     "Full Blend"
    ]
   },
@@ -2231,18 +2230,19 @@
    ]
   },
   {
-   "artist": "Diggy Graves",
-   "title": "Circus Psycho",
+   "artist": "Lil Peep",
+   "title": "the way i see things (prod. kryptik)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/circus-psycho",
-   "source": "spanda-swarm",
-   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/the-way-i-see-things-prod-kryptik",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Ferocious",
+   "mood": "Emotional",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
+    "Rap Rotation",
     "Full Blend"
    ]
   },
@@ -2375,14 +2375,14 @@
   },
   {
    "artist": "Diggy Graves",
-   "title": "Red Vineyard",
+   "title": "Circus Psycho",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/red-vineyard",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/circus-psycho",
    "source": "spanda-swarm",
    "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Menacing",
+   "mood": "Ferocious",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -2517,15 +2517,15 @@
    ]
   },
   {
-   "artist": "Doobie",
-   "title": "Hopeless",
+   "artist": "Diggy Graves",
+   "title": "Red Vineyard",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/doobie/hopeless-2",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/red-vineyard",
    "source": "spanda-swarm",
    "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Defiant",
+   "mood": "Menacing",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -2644,15 +2644,15 @@
    ]
   },
   {
-   "artist": "Diggy Graves",
-   "title": "Cabin Fever",
+   "artist": "Doobie",
+   "title": "Hopeless",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/cabin-fever",
+   "soundcloud_url": "https://soundcloud.com/doobie/hopeless-2",
    "source": "spanda-swarm",
    "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Unhinged",
+   "mood": "Defiant",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -2771,15 +2771,15 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "Awful Things",
+   "artist": "Diggy Graves",
+   "title": "Cabin Fever",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/awful-things",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/cabin-fever",
    "source": "spanda-swarm",
    "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Volatile",
+   "mood": "Unhinged",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -2898,15 +2898,15 @@
    ]
   },
   {
-   "artist": "Honestav & Machine Gun Kelly",
-   "title": "Crash First",
+   "artist": "Lil Peep",
+   "title": "Awful Things",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/honestav/crash-first",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/awful-things",
    "source": "spanda-swarm",
-   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Reckless",
+   "mood": "Volatile",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -3025,15 +3025,15 @@
    ]
   },
   {
-   "artist": "Doobie",
-   "title": "Nikki Sixx",
+   "artist": "Caskey",
+   "title": "Cadillac",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/doobie/nikkisixx",
+   "soundcloud_url": "https://soundcloud.com/caskeyofficial/cadillac-prod-by-anonymass",
    "source": "spanda-swarm",
-   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — director's cut addition. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Swagger",
+   "mood": "Ruthless",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -3137,19 +3137,18 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "save that shit (prod. smokeasac x iivi)",
+   "artist": "Honestav & Machine Gun Kelly",
+   "title": "Crash First",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/save-that-shit",
-   "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "soundcloud_url": "https://soundcloud.com/honestav/crash-first",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Reckless",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
-    "Rap Rotation",
     "Full Blend"
    ]
   },
@@ -3250,15 +3249,15 @@
    ]
   },
   {
-   "artist": "Caskey",
-   "title": "Never Slow Down",
+   "artist": "Doobie",
+   "title": "Nikki Sixx",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/caskeyofficial/never-slow-down",
+   "soundcloud_url": "https://soundcloud.com/doobie/nikkisixx",
    "source": "spanda-swarm",
    "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
    "verified_206": false,
    "genre": "",
-   "mood": "Relentless",
+   "mood": "Swagger",
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
@@ -3362,6 +3361,22 @@
    ]
   },
   {
+   "artist": "Doobie",
+   "title": "Hate Song",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/doobie/hate-song",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — director's cut addition. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Vengeful",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Smiz The Cryptokid",
    "title": "Fresh Outta Heaven",
    "audius_stream_url": "https://api.audius.co/v1/tracks/JBJoEG6/stream?app_name=APOLLOHUNT",
@@ -3454,6 +3469,23 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lil Peep",
+   "title": "save that shit (prod. smokeasac x iivi)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/save-that-shit",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Emotional",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Rap Rotation",
     "Full Blend"
    ]
   },
@@ -3554,6 +3586,22 @@
    ]
   },
   {
+   "artist": "Honestav",
+   "title": "Livin' Wrong",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/honestav/livin-wrong",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — director's cut addition. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Triumphant",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "trulythesound.eth",
    "title": "The Lost Ft. Specctheillest",
    "audius_stream_url": "https://api.audius.co/v1/tracks/mQBkr/stream?app_name=APOLLOHUNT",
@@ -3646,6 +3694,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Caskey",
+   "title": "Never Slow Down",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/caskeyofficial/never-slow-down",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Relentless",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
