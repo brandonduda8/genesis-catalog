@@ -1,7 +1,7 @@
 {
- "version": 6,
- "generated_at": "2026-09-25T08:47:45.523872+00:00",
- "track_count": 494,
+ "version": 7,
+ "generated_at": "2026-09-26T08:37:08.449939+00:00",
+ "track_count": 527,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -676,6 +676,38 @@
    ]
   },
   {
+   "artist": "Kxllswxtch",
+   "title": "EXORCIST",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/kxllswxtch/exorcist-prod-mathiastyner",
+   "source": "apollo",
+   "why": "Official-channel visualizer — trap-metal from the named lane, ahead-of-their-time heavy. Verified 2026-09-25: official verified KXLLSWXTCH SoundCloud, streamable=true, progressive transcoding present,",
+   "verified_206": false,
+   "genre": "Trap Metal",
+   "mood": "Dark",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Honestav",
+   "title": "I'd Rather Overdose",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/honestav/id-rather-overdose-feat-z",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Despair",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Lil Peep (feat. Lil Tracy)",
    "title": "Awful Things",
    "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y5kk7/stream",
@@ -916,6 +948,21 @@
    ]
   },
   {
+   "artist": "Cheat Codes",
+   "title": "Ghost Story (with All Time Low)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/wyE3r/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in Rock; taste-ranker 0.15 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Rock",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "@davidjonnes099",
    "title": "Taylor Swift - Delicate [tCXGJQYZ9JA]",
    "audius_stream_url": "https://api.audius.co/v1/tracks/yg0dkzr/stream?app_name=APOLLOHUNT",
@@ -1028,6 +1075,21 @@
    ]
   },
   {
+   "artist": "ollie 🌌",
+   "title": "ollie - sandcastles",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/EgGOw/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in Folk; taste-ranker 0.00 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Folk",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Dr Tikov",
    "title": "Gentle Reminder",
    "audius_stream_url": "https://api.audius.co/v1/tracks/Q7WW811/stream?app_name=APOLLOHUNT",
@@ -1072,6 +1134,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lil Peep",
+   "title": "Star Shopping",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Longing",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
@@ -1315,6 +1393,21 @@
    ]
   },
   {
+   "artist": "Unlike Pluto",
+   "title": "8 Legged Dreams",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/dVyWM/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in Rock; taste-ranker 0.15 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Rock",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "oshi",
    "title": "forget your touch (demo)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/DOQV1/stream?app_name=APOLLOHUNT",
@@ -1363,6 +1456,36 @@
    ]
   },
   {
+   "artist": "snooze💤",
+   "title": "voyage w Mondo Loops & Poetics",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/AGbMR/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in Jazz; taste-ranker 0.00 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Jazz",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".x.xxxx.xxxxxx.xx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/MKWom/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); taste-ranker 0.39 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Lo-Fi",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Witchouse 40k",
    "title": "Hellhound Militia - GHO$T CLIP",
    "audius_stream_url": "",
@@ -1391,6 +1514,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Doobie",
+   "title": "When the Drugs Don't Work",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/doobie/whenthedrugsdontwork",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Numb",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
@@ -1587,6 +1726,21 @@
    ]
   },
   {
+   "artist": "Unlike Pluto",
+   "title": "Curse",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/9Rb415A/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 7/10 in Rock; taste-ranker 0.16 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Rock",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "RIJELL ✧",
    "title": "Beautiful Lesson ✧",
    "audius_stream_url": "https://api.audius.co/v1/tracks/4k5KZ/stream?app_name=APOLLOHUNT",
@@ -1611,6 +1765,21 @@
    "why": "strong hunt score 7/10 in R&B/Soul — from the Apollo ranked hunt — stream re-verified playable just now",
    "verified_206": true,
    "genre": "R&B/Soul",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ollie 🌌",
+   "title": "life goes on",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/kR2BN/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in Lo-Fi; taste-ranker 0.02 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Lo-Fi",
    "mood": "",
    "playlist": "",
    "playlists": [
@@ -1646,6 +1815,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Honestav",
+   "title": "Stuck On The Floor",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/honestav/stuck-on-the-floor",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (ASHES chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Heavy",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
@@ -1809,6 +1994,36 @@
    ]
   },
   {
+   "artist": "Unlike Pluto",
+   "title": "Goner",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/2Pr5ENZ/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 7/10 in Rock; taste-ranker 0.16 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Rock",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "snooze💤",
+   "title": "DRUGS FADE w Jerry Good",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/wJW6myk/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "strong hunt score 8/10 in R&B/Soul; taste-ranker 0.03 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "R&B/Soul",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "SEMATARY",
    "title": "SEMATARY - GLOOM ROOM FT. GHOST MOUNTAIN (PROD. SEMATARY)",
    "audius_stream_url": "",
@@ -1837,6 +2052,23 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lil Peep",
+   "title": "the way i see things (prod. kryptik)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/the-way-i-see-things-prod-kryptik",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Emotional",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Rap Rotation",
     "Full Blend"
    ]
   },
@@ -1999,6 +2231,22 @@
    ]
   },
   {
+   "artist": "Diggy Graves",
+   "title": "Circus Psycho",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/circus-psycho",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Ferocious",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Bailey Baum",
    "title": "Lonely Looking",
    "audius_stream_url": "https://api.audius.co/v1/tracks/mR2QKY5/stream?app_name=APOLLOHUNT",
@@ -2126,6 +2374,22 @@
    ]
   },
   {
+   "artist": "Diggy Graves",
+   "title": "Red Vineyard",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/red-vineyard",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Menacing",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Find The Joy",
    "title": "Cant Remember",
    "audius_stream_url": "https://api.audius.co/v1/tracks/wzEq6Kk/stream?app_name=APOLLOHUNT",
@@ -2154,6 +2418,21 @@
    "playlist": "Hermes",
    "playlists": [
     "Hermes",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "I Know You Well",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/1O4gPv5/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Brennan Savage lane (affinity 1.5); Alternative is a high-weight genre (1.4); taste-ranker 0.75 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -2238,6 +2517,22 @@
    ]
   },
   {
+   "artist": "Doobie",
+   "title": "Hopeless",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/doobie/hopeless-2",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Defiant",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "boywithahalo",
    "title": "boywithahalo - love language 140bpm",
    "audius_stream_url": "https://api.audius.co/v1/tracks/mgbQA/stream?app_name=APOLLOHUNT",
@@ -2266,6 +2561,21 @@
    "playlist": "Tyche",
    "playlists": [
     "Tyche",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "TELL ME YOUR SECRETS$$$$",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/3KvP0/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Brennan Savage lane (affinity 1.5); Alternative is a high-weight genre (1.4); taste-ranker 0.75 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -2334,6 +2644,22 @@
    ]
   },
   {
+   "artist": "Diggy Graves",
+   "title": "Cabin Fever",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/user-772786258-65340211/cabin-fever",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Unhinged",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Beaumont",
    "title": "cold rain",
    "audius_stream_url": "https://api.audius.co/v1/tracks/Q45KG/stream?app_name=APOLLOHUNT",
@@ -2362,6 +2688,21 @@
    "playlist": "Tyche",
    "playlists": [
     "Tyche",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "Comatose",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/4a15y/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Brennan Savage lane (affinity 1.5); Alternative is a high-weight genre (1.4); taste-ranker 0.75 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -2430,6 +2771,22 @@
    ]
   },
   {
+   "artist": "Lil Peep",
+   "title": "Awful Things",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/awful-things",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (EMBER chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Volatile",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Rijan Archer",
    "title": "Love Letter",
    "audius_stream_url": "https://api.audius.co/v1/tracks/nV9A6/stream?app_name=APOLLOHUNT",
@@ -2458,6 +2815,21 @@
    "playlist": "Tyche",
    "playlists": [
     "Tyche",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxx.xxxx.xx.xxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/5z9AM/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); Alternative is a high-weight genre (1.4); taste-ranker 0.65 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -2526,6 +2898,22 @@
    ]
   },
   {
+   "artist": "Honestav & Machine Gun Kelly",
+   "title": "Crash First",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/honestav/crash-first",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Reckless",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "thegaritomusic",
    "title": "LoFi Jazzhop Winter",
    "audius_stream_url": "https://api.audius.co/v1/tracks/rW6bg/stream?app_name=APOLLOHUNT",
@@ -2554,6 +2942,21 @@
    "playlist": "Tyche",
    "playlists": [
     "Tyche",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ollie 🌌",
+   "title": "auburn skies",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/jlo4Z/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Alternative is a high-weight genre (1.4); taste-ranker 0.26 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Alternative",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -2618,6 +3021,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Doobie",
+   "title": "Nikki Sixx",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/doobie/nikkisixx",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Swagger",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
@@ -2718,6 +3137,23 @@
    ]
   },
   {
+   "artist": "Lil Peep",
+   "title": "save that shit (prod. smokeasac x iivi)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/save-that-shit",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Emotional",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
+    "Rap Rotation",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Blythelyبب",
    "title": "Tears in the Shower",
    "audius_stream_url": "https://api.audius.co/v1/tracks/9N3jA/stream?app_name=APOLLOHUNT",
@@ -2810,6 +3246,22 @@
    "playlist": "Alt Bangers",
    "playlists": [
     "Alt Bangers",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Caskey",
+   "title": "Never Slow Down",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/caskeyofficial/never-slow-down",
+   "source": "spanda-swarm",
+   "why": "SPANDA: SWARM tape (PHOENIX chapter) — Brandon's Ashes->Ember->Phoenix arc. Official artist upload, stream-only.",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Relentless",
+   "playlist": "SPANDA: SWARM",
+   "playlists": [
+    "SPANDA: SWARM",
     "Full Blend"
    ]
   },
@@ -5534,15 +5986,15 @@
    ]
   },
   {
-   "artist": "☆LiL PEEP☆",
-   "title": "save that shit (prod. smokeasac x iivi)",
+   "artist": "SCARLXRD",
+   "title": "Heart Attack [Prod. JVCXB]",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/save-that-shit",
+   "soundcloud_url": "https://soundcloud.com/scarlxrd/heart-attack-prod-jvcxb",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Heartbroken",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5598,10 +6050,10 @@
    ]
   },
   {
-   "artist": "☆LiL PEEP☆",
-   "title": "the way i see things (prod. kryptik)",
+   "artist": "SCARLXRD",
+   "title": "6 FEET [Prod. MUPPY]",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/the-way-i-see-things-prod-kryptik",
+   "soundcloud_url": "https://soundcloud.com/scarlxrd/6-feet-prod-muppy",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5662,15 +6114,15 @@
    ]
   },
   {
-   "artist": "SCARLXRD",
-   "title": "Heart Attack [Prod. JVCXB]",
+   "artist": "JASIAH",
+   "title": "Shenanigans feat. Yung Bans (prod. Jasiah & Ronny J)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/scarlxrd/heart-attack-prod-jvcxb",
+   "soundcloud_url": "https://soundcloud.com/jasiah999/jasiah-shenanigans-feat-yung-bans-prod-ronny-j",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Heartbroken",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5710,10 +6162,10 @@
    ]
   },
   {
-   "artist": "SCARLXRD",
-   "title": "6 FEET [Prod. MUPPY]",
+   "artist": "JASIAH",
+   "title": "Crisis PROD. JA$IAH",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/scarlxrd/6-feet-prod-muppy",
+   "soundcloud_url": "https://soundcloud.com/jasiah999/crisis",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5758,10 +6210,10 @@
    ]
   },
   {
-   "artist": "JASIAH",
-   "title": "Shenanigans feat. Yung Bans (prod. Jasiah & Ronny J)",
+   "artist": "NASCAR ALOE",
+   "title": "SPMO! (prod. @DUEYDIRTY)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/jasiah999/jasiah-shenanigans-feat-yung-bans-prod-ronny-j",
+   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/spmo-prod-dueydirty",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5806,10 +6258,10 @@
    ]
   },
   {
-   "artist": "JASIAH",
-   "title": "Crisis PROD. JA$IAH",
+   "artist": "NASCAR ALOE",
+   "title": "FED UP!",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/jasiah999/crisis",
+   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/fed-up",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5838,10 +6290,25 @@
    ]
   },
   {
-   "artist": "NASCAR ALOE",
-   "title": "SPMO! (prod. @DUEYDIRTY)",
+   "artist": "Powfu",
+   "title": ".xxxxx.xxxx.xx.xxxxxxxxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/pVQXz/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.59 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "☆TOKYO'S REVENGE☆",
+   "title": "GOTHAM",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/spmo-prod-dueydirty",
+   "soundcloud_url": "https://soundcloud.com/tokyosrevenge/gotham",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5870,12 +6337,27 @@
    ]
   },
   {
-   "artist": "NASCAR ALOE",
-   "title": "FED UP!",
+   "artist": "Powfu",
+   "title": ".xxxxxxxxx.xxxxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/bV1G9KQ/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.59 (blend weight 0.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "iann dior",
+   "title": "@ianndior - molly feat. bernard jabs (prod. nick mira)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/fed-up",
+   "soundcloud_url": "https://soundcloud.com/ianndior/iann-dior-molly-feat-bernard-jabs-prod-nick-mira",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -5902,12 +6384,27 @@
    ]
   },
   {
-   "artist": "☆TOKYO'S REVENGE☆",
-   "title": "GOTHAM",
+   "artist": "Powfu",
+   "title": ".xxxxxxxxxx.xxxxxxx",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/kJdJP/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "fits your Powfu lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.59 (blend weight 0.4) — from the Apollo ranked hunt — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "iann dior",
+   "title": "gone girl feat. Trippie Redd (Prod. Pharaoh Vice, Nick Mira & Jared Scharff)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/tokyosrevenge/gotham",
+   "soundcloud_url": "https://soundcloud.com/ianndior/gone-girl-ft-trippie-redd",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -5934,12 +6431,27 @@
    ]
   },
   {
-   "artist": "iann dior",
-   "title": "@ianndior - molly feat. bernard jabs (prod. nick mira)",
+   "artist": "ollie 🌌",
+   "title": "me & myself",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/xvAgY/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.23 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "convolk",
+   "title": "i fucked up",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/ianndior/iann-dior-molly-feat-bernard-jabs-prod-nick-mira",
+   "soundcloud_url": "https://soundcloud.com/convolk/i-fucked-up",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -5966,15 +6478,30 @@
    ]
   },
   {
-   "artist": "iann dior",
-   "title": "gone girl feat. Trippie Redd (Prod. Pharaoh Vice, Nick Mira & Jared Scharff)",
+   "artist": "ollie 🌌",
+   "title": "brightside - ollie ft. powfu (prod. YOG$)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/bmoPP/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.23 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "convolk",
+   "title": "whatever it takes (feat. guardin & 9tails)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/ianndior/gone-girl-ft-trippie-redd",
+   "soundcloud_url": "https://soundcloud.com/convolk/whatever-it-takes-guardin-9tails",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Defiant",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5998,66 +6525,17 @@
    ]
   },
   {
-   "artist": "convolk",
-   "title": "i fucked up",
-   "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/convolk/i-fucked-up",
-   "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
-   "verified_206": false,
-   "genre": "",
-   "mood": "Emotional",
-   "playlist": "Rap Rotation",
-   "playlists": [
-    "Rap Rotation",
-    "Full Blend"
-   ]
-  },
-  {
-   "artist": "NickT",
-   "title": "Sophia's Song",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/5Q7Vz1V/stream?app_name=APOLLOHUNT",
+   "artist": "ollie 🌌",
+   "title": "ollie - keep breathing",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/0MXEAP9/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
-   "source": "apollo",
-   "why": "",
-   "verified_206": false,
-   "genre": "",
+   "source": "apollo-live",
+   "why": "Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.23 (blend weight 0.4) — stream re-verified playable just now",
+   "verified_206": true,
+   "genre": "Hip-Hop/Rap",
    "mood": "",
-   "playlist": "Apollo Hunt",
+   "playlist": "",
    "playlists": [
-    "Apollo Hunt",
-    "Full Blend"
-   ]
-  },
-  {
-   "artist": "convolk",
-   "title": "whatever it takes (feat. guardin & 9tails)",
-   "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/convolk/whatever-it-takes-guardin-9tails",
-   "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
-   "verified_206": false,
-   "genre": "",
-   "mood": "Defiant",
-   "playlist": "Rap Rotation",
-   "playlists": [
-    "Rap Rotation",
-    "Full Blend"
-   ]
-  },
-  {
-   "artist": "Samson",
-   "title": "goodbye",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/9dq30/stream?app_name=APOLLOHUNT",
-   "soundcloud_url": "",
-   "source": "apollo",
-   "why": "",
-   "verified_206": false,
-   "genre": "",
-   "mood": "",
-   "playlist": "Apollo Hunt",
-   "playlists": [
-    "Apollo Hunt",
     "Full Blend"
    ]
   },
@@ -6078,9 +6556,9 @@
    ]
   },
   {
-   "artist": "THE ZAVARA",
-   "title": "Club Heaven",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/ryz5m1Z/stream?app_name=APOLLOHUNT",
+   "artist": "NickT",
+   "title": "Sophia's Song",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/5Q7Vz1V/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6110,9 +6588,9 @@
    ]
   },
   {
-   "artist": "Bovine Productions",
-   "title": "Laundromat (Belinda)",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/bGWxjX/stream?app_name=APOLLOHUNT",
+   "artist": "Samson",
+   "title": "goodbye",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/9dq30/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6142,9 +6620,9 @@
    ]
   },
   {
-   "artist": "The Don",
-   "title": "Letter to Heaven",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/2RYvNQy/stream?app_name=APOLLOHUNT",
+   "artist": "THE ZAVARA",
+   "title": "Club Heaven",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/ryz5m1Z/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6174,9 +6652,9 @@
    ]
   },
   {
-   "artist": "nobody",
-   "title": "Forgive me",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/87l5m/stream?app_name=APOLLOHUNT",
+   "artist": "Bovine Productions",
+   "title": "Laundromat (Belinda)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/bGWxjX/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6206,9 +6684,9 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "angeldust",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/x4K7Mj/stream?app_name=APOLLOHUNT",
+   "artist": "The Don",
+   "title": "Letter to Heaven",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/2RYvNQy/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6238,9 +6716,9 @@
    ]
   },
   {
-   "artist": "osamason",
-   "title": "Lean Diet",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/NzY7g24/stream?app_name=APOLLOHUNT",
+   "artist": "nobody",
+   "title": "Forgive me",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/87l5m/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6271,8 +6749,8 @@
   },
   {
    "artist": "Lil Peep",
-   "title": "live forever",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/8OOR4OO/stream?app_name=APOLLOHUNT",
+   "title": "angeldust",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/x4K7Mj/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6302,9 +6780,9 @@
    ]
   },
   {
-   "artist": "TWITCHY BONES",
-   "title": "TIMELOST",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/YJA2y/stream?app_name=APOLLOHUNT",
+   "artist": "osamason",
+   "title": "Lean Diet",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NzY7g24/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6334,9 +6812,9 @@
    ]
   },
   {
-   "artist": "YUNGXANAX",
-   "title": "OUR LOVE",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/lWXq97Z/stream?app_name=APOLLOHUNT",
+   "artist": "Lil Peep",
+   "title": "live forever",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/8OOR4OO/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6366,9 +6844,9 @@
    ]
   },
   {
-   "artist": "THE ZAVARA",
-   "title": "Lost Cause",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/Q73XoOG/stream?app_name=APOLLOHUNT",
+   "artist": "TWITCHY BONES",
+   "title": "TIMELOST",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/YJA2y/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6398,9 +6876,9 @@
    ]
   },
   {
-   "artist": "Kankan",
-   "title": "Demon Time",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/3RkaJ/stream?app_name=APOLLOHUNT",
+   "artist": "YUNGXANAX",
+   "title": "OUR LOVE",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/lWXq97Z/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6430,9 +6908,9 @@
    ]
   },
   {
-   "artist": "Above and Below",
-   "title": "Xotix - Cranial Therapy",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/7lBrW/stream?app_name=APOLLOHUNT",
+   "artist": "THE ZAVARA",
+   "title": "Lost Cause",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Q73XoOG/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6462,9 +6940,9 @@
    ]
   },
   {
-   "artist": "nickyxplicit",
-   "title": "love is pain",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/M6KYo/stream?app_name=APOLLOHUNT",
+   "artist": "Kankan",
+   "title": "Demon Time",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/3RkaJ/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6494,9 +6972,9 @@
    ]
   },
   {
-   "artist": "THE VAGUS CO.",
-   "title": "VΛCΛNCY",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/NlAM4/stream?app_name=APOLLOHUNT",
+   "artist": "Above and Below",
+   "title": "Xotix - Cranial Therapy",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/7lBrW/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6526,9 +7004,9 @@
    ]
   },
   {
-   "artist": "Needraw",
-   "title": "Reborn",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/j43v1/stream?app_name=APOLLOHUNT",
+   "artist": "nickyxplicit",
+   "title": "love is pain",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/M6KYo/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6558,9 +7036,9 @@
    ]
   },
   {
-   "artist": "Lil Doom Boy",
-   "title": "Crow in a Coffin",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/P61Pk/stream?app_name=APOLLOHUNT",
+   "artist": "THE VAGUS CO.",
+   "title": "VΛCΛNCY",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NlAM4/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6590,9 +7068,9 @@
    ]
   },
   {
-   "artist": "the letter i",
-   "title": "the letter i & Blaxqout - Drip Forever [Tribal Trap]",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/la3z6/stream?app_name=APOLLOHUNT",
+   "artist": "Needraw",
+   "title": "Reborn",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/j43v1/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6622,9 +7100,9 @@
    ]
   },
   {
-   "artist": "BOY-etchko",
-   "title": "BROKEN PiAno",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/OPAK4/stream?app_name=APOLLOHUNT",
+   "artist": "Lil Doom Boy",
+   "title": "Crow in a Coffin",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/P61Pk/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6650,6 +7128,38 @@
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "the letter i",
+   "title": "the letter i & Blaxqout - Drip Forever [Tribal Trap]",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/la3z6/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "BOY-etchko",
+   "title": "BROKEN PiAno",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/OPAK4/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
     "Full Blend"
    ]
   },
