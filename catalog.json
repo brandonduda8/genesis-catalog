@@ -1,7 +1,7 @@
 {
- "version": 10,
- "generated_at": "2026-09-26T12:13:27.972579+00:00",
- "track_count": 531,
+ "version": 11,
+ "generated_at": "2026-09-27T12:13:18.364807+00:00",
+ "track_count": 738,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -128,6 +128,118 @@
    "playlist": "Tha Aadity",
    "playlists": [
     "Tha Aadity",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Witchouse 40k",
+   "title": "INTO THE HUNT",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/into-the-hunt",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Maeki Maii",
+   "title": "01. DANTE feat Dissipé (prod R$KP)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/GQX6j/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".x.xxxx.xxxxxx.xx",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/MKWom/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "College Music",
+   "title": "Ty's Music - Dare to Dream (Special Version)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/KpbV1or/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "jAI Feezy",
+   "title": "Kora Vain",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/mzJ9Olp/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Spidermonchis",
+   "title": "Give Me Wings",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lp7PO/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Nick Neutronz",
+   "title": "Matrix Tears",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/P5O5p/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "audius",
+   "why": "Because you ran Lil Peep all week: same DNA, an artist you haven't heard.",
+   "verified_206": true,
+   "genre": "",
+   "mood": "",
+   "playlist": "",
+   "playlists": [
     "Full Blend"
    ]
   },
@@ -820,6 +932,103 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "THE SCAVENGER",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/the-scavenger",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Matt OX",
+   "title": "BET!",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lJ81yqZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxx.xxxx.xx.xxxx",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5z9AM/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Crushed Candy - Blame",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Abkoy77/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Essie Russ",
+   "title": "Frozen Eclipse",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y4J47/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Phonkid Prod",
+   "title": "METATRADER Phonk Type INSTRUMENTAL FOR SALE",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5jlM7/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "adame",
    "title": "Cash Money - [GWUB12]",
    "audius_stream_url": "https://api.audius.co/v1/tracks/pGR9z/stream?app_name=APOLLOHUNT",
@@ -1107,11 +1316,11 @@
   },
   {
    "artist": "Witchouse 40k",
-   "title": "DEVIL ON MY SHOULDER",
+   "title": "Hellhound Militia - GHO$T CLIP",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/hell_usa/devil-on-my-shoulder-prod-nightrdd-x-skinnydrag-x-marrow",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/hellhound-militia-ghot-clip",
    "source": "apollo",
-   "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.52 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -1261,6 +1470,103 @@
    "playlist": "Tha Aadity",
    "playlists": [
     "Tha Aadity",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Witchouse 40k",
+   "title": "HOGTIED",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/hogtied",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "snow! (@snowwavy)",
+   "title": "Tick!",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/jb3dm2G/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxxxxxxx.xxxxxx",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/bV1G9KQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Beyounger & DJ ED3 - Montagem PlayStation",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/k4Q15P/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "Unstoppable",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/M2ROx/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Komorebi Records",
+   "title": "Deeb - Forest Nightdrive (feat. Philanthrope)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/796wW/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
     "Full Blend"
    ]
   },
@@ -1487,11 +1793,11 @@
   },
   {
    "artist": "Witchouse 40k",
-   "title": "Hellhound Militia - GHO$T CLIP",
+   "title": "Witchouse 40k x CYBERDRIP$ - NOCTURNAL (prod. CYBERDRIP$) (Video in Desc.)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/hell_usa/hellhound-militia-ghot-clip",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/nocccccc",
    "source": "apollo",
-   "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.52 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -1626,6 +1932,103 @@
    "playlist": "Tha Aadity",
    "playlists": [
     "Tha Aadity",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Witchouse 40k",
+   "title": "IRONHEADS",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/ironheads",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "mf eistee",
+   "title": "rusty (audius exclusive)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/79zAP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "I Know You Well",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1O4gPv5/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lethyx Nekuia",
+   "title": "Lethyx Nekuia - Run It Up",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ozpwv/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "Fine",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/VEgJ1XW/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "EGG 🥚 RECORDS Ξ",
+   "title": "§50 Collectible Music Egg Egon Musk feat. Lilsiri.eth",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/6agpQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
     "Full Blend"
    ]
   },
@@ -1787,15 +2190,15 @@
    ]
   },
   {
-   "artist": "Witchouse 40k",
-   "title": "Witchouse 40k x CYBERDRIP$ - NOCTURNAL (prod. CYBERDRIP$) (Video in Desc.)",
+   "artist": "SEMATARY",
+   "title": "SEMATARY - GLOOM ROOM FT. GHOST MOUNTAIN (PROD. SEMATARY)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/hell_usa/nocccccc",
+   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-gloom-room-ft-ghost",
    "source": "apollo",
-   "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.52 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.53 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Brooding",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -1930,6 +2333,103 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "DEVIL ON MY SHOULDER",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/devil-on-my-shoulder-prod-nightrdd-x-skinnydrag-x-marrow",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "☭$OV!ET K!D☭ (E$KAY)",
+   "title": "\"Venom\" UnoTheActivist x Yeat | RAGE Type Beat",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5O65M/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxxxxx.xx.xxxxxxxxx",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/8Z2Yl/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "UNLEAZER - Children",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/z9WvrKP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Enough Records",
+   "title": "Alex Mason - Goddess of Deceit",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/nVjQ6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "LemonadeJetpack",
+   "title": "NightDrive (demo)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/W0JP60j/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "HYPERTRAFFIC",
    "title": "RISE UP",
    "audius_stream_url": "https://api.audius.co/v1/tracks/bVQMk/stream?app_name=APOLLOHUNT",
@@ -2025,14 +2525,14 @@
   },
   {
    "artist": "SEMATARY",
-   "title": "SEMATARY - GLOOM ROOM FT. GHOST MOUNTAIN (PROD. SEMATARY)",
+   "title": "SEMATARY - SLAUGHTER HOUSE **VIDEO IN DESCRIPTION**",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-gloom-room-ft-ghost",
+   "soundcloud_url": "https://soundcloud.com/semataryy/01-slaughter-house",
    "source": "apollo",
-   "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.53 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Brooding",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -2135,6 +2635,103 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "BLOODSOAKED",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/bloodsoaked",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ELIMINA",
+   "title": "Enigma",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kpwWP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Powfu",
+   "title": ".xxxxxxxxxx.xxxxxxx",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kJdJP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Jay Phoenix",
+   "title": "Jay Phoenix & Daevo - Crazy",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/mZOZwv/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Aadysi",
+   "title": "Shadow",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lWyOXVZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "shant singh",
+   "title": "Drive All Night",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/7G1Ky8W/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Pauline",
    "title": "We Rise",
    "audius_stream_url": "https://api.audius.co/v1/tracks/80doJBl/stream?app_name=APOLLOHUNT",
@@ -2199,14 +2796,14 @@
   },
   {
    "artist": "SEMATARY",
-   "title": "SEMATARY - SLAUGHTER HOUSE **VIDEO IN DESCRIPTION**",
+   "title": "SEMATARY FT. GHOST MOUNTAIN - BUNNY SUIT **VIDEO IN DESCRIPTION**",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/semataryy/01-slaughter-house",
+   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-ft-ghost-mountain-bunny-suit",
    "source": "apollo",
    "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Brooding",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -2310,6 +2907,102 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "VULTURES (feat. MOSSBACK)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/vultures-feat-mossback",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "RamonPang",
+   "title": "ISOxo - Chamber (RamonPang flip)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5zGGJ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ColdHART",
+   "title": "Power Trance Dance",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/YKyoYKv/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Wazad - Sharks ft. Marwan Khurshid",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/K9G7w/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brentin Davis",
+   "title": "Horror Movie Invasion",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/gmaaZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trvpinstein Beats",
+   "title": "I Tried Phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/6kOvR7Z/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Luhv",
    "title": "RIVERS RISE",
    "audius_stream_url": "https://api.audius.co/v1/tracks/0Rkqj/stream?app_name=APOLLOHUNT",
@@ -2343,14 +3036,14 @@
   },
   {
    "artist": "SEMATARY",
-   "title": "SEMATARY FT. GHOST MOUNTAIN - BUNNY SUIT **VIDEO IN DESCRIPTION**",
+   "title": "SEMATARY FT. HACKLE - HAUNTED MOUND REAPERS PROD. GRAVE MAN",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-ft-ghost-mountain-bunny-suit",
+   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-ft-hackle-haunted-mound-reapers-prod-grave-man",
    "source": "apollo",
    "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Brooding",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -2453,6 +3146,102 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "SNAKESKIN (feat. GRIM SALVO)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/snakeskin-feat-grim-salvo",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "nyt club",
+   "title": "Deafadil - I Want It Now",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5jK31/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ColdHART",
+   "title": "Keep it Cold",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y5wmaYP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Vyrak & Dakan - No Sunlight",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ja7ZEjZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Solar Phasing",
+   "title": "Tempus Fugit (Out of Context)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/071oEa9/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "LAIMON 👨🏻‍🚀",
+   "title": "MEMPHIS - PHONK",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/wGxZ2/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "NOSAM",
    "title": "Focus",
    "audius_stream_url": "https://api.audius.co/v1/tracks/QZMxR/stream?app_name=APOLLOHUNT",
@@ -2485,12 +3274,12 @@
    ]
   },
   {
-   "artist": "SEMATARY",
-   "title": "SEMATARY FT. HACKLE - HAUNTED MOUND REAPERS PROD. GRAVE MAN",
+   "artist": "glo",
+   "title": "damn glo prod sil",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/semataryy/sematary-ft-hackle-haunted-mound-reapers-prod-grave-man",
+   "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-prod-sil",
    "source": "apollo",
-   "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.49 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -2596,6 +3385,102 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "COFFINYARD",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/coffinyard",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "LUCA LUSH",
+   "title": "LUCA LUSH - SEROTONIN",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/0PPR5/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "TELL ME YOUR SECRETS$$$$",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/3KvP0/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "MATTRICK",
+   "title": "PHOENIX",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/dWWY1lP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "The One Then",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/blElgRW/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Weaver Beats",
+   "title": "Ecco Phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/NlV7dpp/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Phuture Collective",
    "title": "Goodknight. - Focus",
    "audius_stream_url": "https://api.audius.co/v1/tracks/gW39v/stream?app_name=APOLLOHUNT",
@@ -2613,9 +3498,9 @@
   },
   {
    "artist": "glo",
-   "title": "damn glo prod sil",
+   "title": "damn glo 2 ft jace",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-prod-sil",
+   "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-2-with-iayze-braylle",
    "source": "apollo",
    "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.49 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -2723,6 +3608,102 @@
    ]
   },
   {
+   "artist": "Witchouse 40k",
+   "title": "O' DEATH",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/hell_usa/o-death",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "LUCA LUSH",
+   "title": "I Write Sins Not Tragedies",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/VgEAr/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ColdHART",
+   "title": "Rave Rager 24",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kPY7N/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "MaximusVandal",
+   "title": "Serenada",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/YRZyd97/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Solar Phasing",
+   "title": "Beyond",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/DvXXO/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "yo_itsrobert",
+   "title": "Midnight Drive",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/6M0XQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Wreckno",
    "title": "FOCUS (WRECKNO RMX)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/JZEdY/stream?app_name=APOLLOHUNT",
@@ -2739,15 +3720,15 @@
    ]
   },
   {
-   "artist": "glo",
-   "title": "damn glo 2 ft jace",
+   "artist": "GHOSTEMANE",
+   "title": "GHOSTEMANE - Venom",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-2-with-iayze-braylle",
+   "soundcloud_url": "https://soundcloud.com/ghostemane/ghostemane-venom",
    "source": "apollo",
-   "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.49 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "GHOSTEMANE is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Brooding",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -2850,6 +3831,103 @@
    ]
   },
   {
+   "artist": "Savage Ga$p (@Savagegasp)",
+   "title": "soul scars w/ wesghost and witchouse 40k ( prod. mossback and dont eat slugs)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/avageaspandungique/soul-scars-w-wesghost-and",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Ghostlands",
+   "playlists": [
+    "Ghostlands",
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Elment",
+   "title": "My Downfall",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/wYzGzVk/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "Comatose",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/4a15y/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Break & Enter Society",
+   "title": "Trias - Crisis",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5jj4Y/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Rhyot",
+   "title": "Army of the Dead",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/x5Vk2/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Blythelyبب",
+   "title": "Star Hunter (Cinematic Synthwave)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/93v00/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "SunShy",
    "title": "Too Fast (w/ ero808)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/4bp2j/stream?app_name=APOLLOHUNT",
@@ -2866,15 +3944,15 @@
    ]
   },
   {
-   "artist": "GHOSTEMANE",
-   "title": "GHOSTEMANE - Venom",
+   "artist": "glo",
+   "title": "dont gotta drop prod dev + 1jayxxl",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/ghostemane/ghostemane-venom",
+   "soundcloud_url": "https://soundcloud.com/glofromda4/new-jersey-2-prod-devstacks-1jayxxl",
    "source": "apollo",
-   "why": "GHOSTEMANE is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Brooding",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -2977,6 +4055,86 @@
    ]
   },
   {
+   "artist": "Phuture Collective",
+   "title": "Noer the Boy - 100 Tendrils",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Nk0mVR8/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "MIRROR",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lJmwA5Q/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "Dreamers",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/PQyO1/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "Halloween Waltz",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/PgQa1/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Animated Music!",
+   "title": "Metaversal Sounds-Romey And The Robotz- Live @ See The Music TV",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/NV9Bx/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Coop Records",
    "title": "Port London - FAST FWD",
    "audius_stream_url": "https://api.audius.co/v1/tracks/Ox5x9Wl/stream?app_name=APOLLOHUNT",
@@ -2993,12 +4151,12 @@
    ]
   },
   {
-   "artist": "glo",
-   "title": "dont gotta drop prod dev + 1jayxxl",
+   "artist": "Xavier Wulf",
+   "title": "Xavier Wulf - Thunder Man (Prod. Shadow Grim)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/glofromda4/new-jersey-2-prod-devstacks-1jayxxl",
+   "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-thunder-man",
    "source": "apollo",
-   "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your Xavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -3089,6 +4247,86 @@
    ]
   },
   {
+   "artist": "YOOKiE",
+   "title": "BUBBLE BASS",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/vJM2p/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Brennan Savage",
+   "title": "24",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/z9RNdNz/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Sad Boy",
+   "playlists": [
+    "Sad Boy",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "S!CK!CK",
+   "title": "Sickick - Epic DMX Tribute",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/2jKA6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "VALE",
+   "title": "Poseidon - Hekate",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/qEE9m/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Moonrunner83",
+   "title": "'80s Love (feat. King Protea)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lVv9G/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "pronouncedyea",
    "title": "moving so fast",
    "audius_stream_url": "https://api.audius.co/v1/tracks/4WQ2ANy/stream?app_name=APOLLOHUNT",
@@ -3106,9 +4344,9 @@
   },
   {
    "artist": "Xavier Wulf",
-   "title": "Xavier Wulf - Thunder Man (Prod. Shadow Grim)",
+   "title": "Xavier Wulf - Akina Speed Star (Prod. KurtisBased)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-thunder-man",
+   "soundcloud_url": "https://soundcloud.com/xavierwulf/02-akina-speed-star",
    "source": "apollo",
    "why": "fits your Xavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -3201,6 +4439,70 @@
    ]
   },
   {
+   "artist": "Moore Kismet",
+   "title": "Spag Heddy - Zoom (Moore Kismet Remix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/nqERB/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lofi-darkcity",
+   "title": "Epic on the Inside",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/MWBwGBm/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "sanjaux",
+   "title": "Descent",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/QbAQV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "eddie edditter",
+   "title": "Side B :Dark Sunset",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/z2BlP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "uezurii.flac",
    "title": "Fast Times (Goin' Too Fast)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/5Op065g/stream?app_name=APOLLOHUNT",
@@ -3218,9 +4520,9 @@
   },
   {
    "artist": "Xavier Wulf",
-   "title": "Xavier Wulf - Akina Speed Star (Prod. KurtisBased)",
+   "title": "Xavier Wulf - Mobile Suit Woe (Prod. Purp Dogg)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/xavierwulf/02-akina-speed-star",
+   "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-mobile-suit-woe",
    "source": "apollo",
    "why": "fits your Xavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -3313,6 +4615,70 @@
    ]
   },
   {
+   "artist": "Aadysi",
+   "title": "Aadysi x SONACE - Abyss",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/bm2YO/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "Fearless Warrior",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/pjX6m/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "Piece of Advice",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/r916wAZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Cuppa' Joe",
+   "title": "Camouflage feat. Veiled Eyes and QUINCY",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ry0gggY/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Javier Tejeda",
    "title": "Taylor Swift - Opalite (Javier Tejeda & The Agent Pop Mix)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/43K8Vrb/stream?app_name=APOLLOHUNT",
@@ -3329,12 +4695,12 @@
    ]
   },
   {
-   "artist": "Xavier Wulf",
-   "title": "Xavier Wulf - Mobile Suit Woe (Prod. Purp Dogg)",
+   "artist": "Mac Miller",
+   "title": "Self Care",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-mobile-suit-woe",
+   "soundcloud_url": "https://soundcloud.com/larryfisherman/self-care",
    "source": "apollo",
-   "why": "fits your Xavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your Mac Miller lane (affinity 1.6); taste-ranker 0.39 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -3425,6 +4791,70 @@
    ]
   },
   {
+   "artist": "MICO",
+   "title": "had2do (w/ marc indigo)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kZaOV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Malo Bertrand",
+   "title": "Another Breath - Malo Bertrand",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Gxykb/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Enough Records",
+   "title": "Alex Mason - The Escape",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/DvxJ6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Chillhop Music",
+   "title": "C Y G N - Late Night Drive",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/GEWO1XE/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Pavel Duglas",
    "title": "Павел Дуглас - Forget your can be myin",
    "audius_stream_url": "https://api.audius.co/v1/tracks/yyXkx/stream?app_name=APOLLOHUNT",
@@ -3442,9 +4872,9 @@
   },
   {
    "artist": "Mac Miller",
-   "title": "Self Care",
+   "title": "Diablo (prod. Larry Fisherman)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/larryfisherman/self-care",
+   "soundcloud_url": "https://soundcloud.com/larryfisherman/diablo-prod-larry-fisherman",
    "source": "apollo",
    "why": "fits your Mac Miller lane (affinity 1.6); taste-ranker 0.39 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -3538,6 +4968,70 @@
    ]
   },
   {
+   "artist": "KEVIN BEDFORD",
+   "title": "closing time (Dylan Brady & Aaron Cartier remix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/mRbvy/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Jay Phoenix",
+   "title": "RAIDH & Jay Phoenix - My Mind",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1gE4N6X/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "Apocalypse",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/QxAwV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Danna Jo",
+   "title": "Montagem Tomada x Dame Un Grrr [Danna Jo - Phonk Mashup]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1gm6vpQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Fortu & Mendoza",
    "title": "Crypto Feat. Jorge Nava",
    "audius_stream_url": "https://api.audius.co/v1/tracks/54qw6/stream?app_name=APOLLOHUNT",
@@ -3554,15 +5048,15 @@
    ]
   },
   {
-   "artist": "Mac Miller",
-   "title": "Diablo (prod. Larry Fisherman)",
+   "artist": "HORSE HEAD",
+   "title": "GETTING MONEY STILL SAD TOO w/ Lil Peep (prod. Lederrick)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/larryfisherman/diablo-prod-larry-fisherman",
+   "soundcloud_url": "https://soundcloud.com/horsehead1990/getting-money-still-sad-too",
    "source": "apollo",
-   "why": "fits your Mac Miller lane (affinity 1.6); taste-ranker 0.39 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Melancholy",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -3650,6 +5144,70 @@
    ]
   },
   {
+   "artist": "LUCAS LEX",
+   "title": "MOON",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/rzJOQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "finaldest!nation, L3ss & Barmuda - lies",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/2MYxRp6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Jyc Row",
+   "title": "The Legion (voc. Celica Soldream)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/aAbBj/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "bleu 2",
+   "title": "phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1GAwd/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Sudhir Meripo",
    "title": "Forge of Superiority and the Mights of Minds",
    "audius_stream_url": "https://api.audius.co/v1/tracks/WY9rZ/stream?app_name=APOLLOHUNT",
@@ -3667,14 +5225,14 @@
   },
   {
    "artist": "HORSE HEAD",
-   "title": "GETTING MONEY STILL SAD TOO w/ Lil Peep (prod. Lederrick)",
+   "title": "Time Bomb [feat Lil Peep] (prod. by fish narc)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/horsehead1990/getting-money-still-sad-too",
+   "soundcloud_url": "https://soundcloud.com/horsehead1990/time-bomb-feat-lil-peep-prod-by-fish-narc",
    "source": "apollo",
    "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Melancholy",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -3762,6 +5320,70 @@
    ]
   },
   {
+   "artist": "MO$H",
+   "title": "breaking point (p. akira3k)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/bvxJJ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "D0d",
+   "title": "Dreamer",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/k4rZN/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ahmet soner",
+   "title": "Dark Trees of Valhalla",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/6Ry39/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Dabllex",
+   "title": "PHONK KING",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/YmP0v/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Awakening Records",
    "title": "Ekali & Lizdek - Forget About You",
    "audius_stream_url": "https://api.audius.co/v1/tracks/VKJE1wQ/stream?app_name=APOLLOHUNT",
@@ -3778,12 +5400,12 @@
    ]
   },
   {
-   "artist": "HORSE HEAD",
-   "title": "Time Bomb [feat Lil Peep] (prod. by fish narc)",
+   "artist": "Cold Hart",
+   "title": "Dying Ft Lil Peep (prod by LIL PUKE)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/horsehead1990/time-bomb-feat-lil-peep-prod-by-fish-narc",
+   "soundcloud_url": "https://soundcloud.com/coldhart/dying-ft-lil-peep",
    "source": "apollo",
-   "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -3858,6 +5480,70 @@
    ]
   },
   {
+   "artist": "Reikko",
+   "title": "gone",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/0KwBk3K/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Jay Phoenix",
+   "title": "RVRITY, DIRTY SIX, Immanuel Carrer, Jay Phoenix - DANGER",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/R9dNz7g/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "paula lee",
+   "title": "Castle village and desert and keeps ~ rendition krugman : stage 3 theme",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/DBVZJ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "zaza",
+   "title": "MIDNIGHT.",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/zKYMk7p/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Buunshin",
    "title": "Forget About Me",
    "audius_stream_url": "https://api.audius.co/v1/tracks/a5R2o/stream?app_name=APOLLOHUNT",
@@ -3875,9 +5561,9 @@
   },
   {
    "artist": "Cold Hart",
-   "title": "Dying Ft Lil Peep (prod by LIL PUKE)",
+   "title": "13. Down For You Ft Lil Peep",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/coldhart/dying-ft-lil-peep",
+   "soundcloud_url": "https://soundcloud.com/coldhart/13-down-for-you-ft-lil-peep-prod-by-savior",
    "source": "apollo",
    "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -3954,6 +5640,70 @@
    ]
   },
   {
+   "artist": "EZZYLAND",
+   "title": "SPEEDRUN",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/n1a3y/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "RNRS - Part of Me",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y9Z0wbP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "VALE",
+   "title": "Result - Bone Bender",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/6440Z/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Binx",
+   "title": "The Sound",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/P9kWo7p/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Coop Records",
    "title": "Flava D - Dutty (with P Money)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/XVx0joq/stream?app_name=APOLLOHUNT",
@@ -3970,12 +5720,12 @@
    ]
   },
   {
-   "artist": "Cold Hart",
-   "title": "13. Down For You Ft Lil Peep",
+   "artist": "HORSE HEAD",
+   "title": "Horse Head & YAWNS - End Of A Good Thing",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/coldhart/13-down-for-you-ft-lil-peep-prod-by-savior",
+   "soundcloud_url": "https://soundcloud.com/horsehead1990/end-of-a-good-thing",
    "source": "apollo",
-   "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4050,6 +5800,70 @@
    ]
   },
   {
+   "artist": "Pritty",
+   "title": "Soldier, Like Me feat. Ravenna Golden (prod. Dylan Brady)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/OGZEg/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "DJ Shinsuke !",
+   "title": "Like A Miracle",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/7GKvExq/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Leon Ross",
+   "title": "Credits",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/XPogZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Kabryil",
+   "title": "Creep - Phonk Trap Beat Instrumental [Prod: Nunz]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/RxXlR/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Kofi Daeshaun",
    "title": "Short Money",
    "audius_stream_url": "https://api.audius.co/v1/tracks/93BwRxG/stream?app_name=APOLLOHUNT",
@@ -4066,12 +5880,12 @@
    ]
   },
   {
-   "artist": "HORSE HEAD",
-   "title": "Horse Head & YAWNS - End Of A Good Thing",
+   "artist": "Cold Hart",
+   "title": "RECIPE (prod.TAYLOR MORGAN + MENTAL)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/horsehead1990/end-of-a-good-thing",
+   "soundcloud_url": "https://soundcloud.com/coldhart/recipe-prodtaylor-morgan-mental",
    "source": "apollo",
-   "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.32 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4146,6 +5960,70 @@
    ]
   },
   {
+   "artist": "sewnfkt",
+   "title": "worth a try",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ZrW36/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Whaskii",
+   "title": "Dancing In The Rain",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/3ExgozE/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "VALE",
+   "title": "ÆTERNA - IMPERIAL",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Vvb1Q/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "c152",
+   "title": "Midnight City (feat. chirrrex)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5QW2Y/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "PARTYPREET",
    "title": "Secrets Under Your Eyes",
    "audius_stream_url": "https://api.audius.co/v1/tracks/5KdEJ/stream?app_name=APOLLOHUNT",
@@ -4162,12 +6040,12 @@
    ]
   },
   {
-   "artist": "Cold Hart",
-   "title": "RECIPE (prod.TAYLOR MORGAN + MENTAL)",
+   "artist": "lil aaron",
+   "title": "ESCALADE - lil aaron & blackbear",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/coldhart/recipe-prodtaylor-morgan-mental",
+   "soundcloud_url": "https://soundcloud.com/lilaaron911/escalade",
    "source": "apollo",
-   "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.32 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your lil aaron lane (affinity 1.4); taste-ranker 0.26 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4242,6 +6120,70 @@
    ]
   },
   {
+   "artist": "Rome in Silver",
+   "title": "On The Edge",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/JNjGoZ2/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Rescve",
+   "title": "Rescve - Hivemind (ft. Martin Pedersen)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/E0ZxN/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Alexandra Martin",
+   "title": "6. Dreamers of the World",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/PjzrN/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "lumii",
+   "title": "DRIVE ALL NIGHT",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/py8KG70/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Calin Apostol",
    "title": "Journey to Venus",
    "audius_stream_url": "https://api.audius.co/v1/tracks/Q0wwv/stream?app_name=APOLLOHUNT",
@@ -4259,11 +6201,11 @@
   },
   {
    "artist": "lil aaron",
-   "title": "ESCALADE - lil aaron & blackbear",
+   "title": "neversoft (prod lil aaron)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lilaaron911/escalade",
+   "soundcloud_url": "https://soundcloud.com/lilaaron911/neversoft",
    "source": "apollo",
-   "why": "fits your lil aaron lane (affinity 1.4); taste-ranker 0.26 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your lil aaron lane (affinity 1.4); taste-ranker 0.25 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4338,6 +6280,70 @@
    ]
   },
   {
+   "artist": "Rome in Silver",
+   "title": "Rome in Silver - cloud9high (feat. Vaarwell)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Kp8mrOl/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Composer Squad",
+   "title": "The Rush",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/vZP3O/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Alexandra Martin",
+   "title": "4. Unstoppable",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lj61l/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Danna Jo",
+   "title": "Spooky Scary Skeletons (Danna Jo Phonk Edit)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/K5pE2/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Jan Larz",
    "title": "ECLECTIC JOURNEY",
    "audius_stream_url": "https://api.audius.co/v1/tracks/PGAJbkX/stream?app_name=APOLLOHUNT",
@@ -4355,11 +6361,11 @@
   },
   {
    "artist": "lil aaron",
-   "title": "neversoft (prod lil aaron)",
+   "title": "DRUGS",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lilaaron911/neversoft",
+   "soundcloud_url": "https://soundcloud.com/lilaaron911/drugs",
    "source": "apollo",
-   "why": "fits your lil aaron lane (affinity 1.4); taste-ranker 0.25 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "fits your lil aaron lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive veri",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4434,6 +6440,70 @@
    ]
   },
   {
+   "artist": "Pacific Patterns",
+   "title": "ROLLUP with Pressha",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/0vRz5/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Angelika Septima",
+   "title": "Phoenix",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ozklp2J/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "darkwinged",
+   "title": "Alan",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1gRpY/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Flavonoise",
+   "title": "Ready to play",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/3GbWOZk/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "GALLUS",
    "title": "Justice is Coming",
    "audius_stream_url": "https://api.audius.co/v1/tracks/8EzgoVl/stream?app_name=APOLLOHUNT",
@@ -4450,15 +6520,15 @@
    ]
   },
   {
-   "artist": "lil aaron",
-   "title": "DRUGS",
+   "artist": "Shakewell",
+   "title": "Terminal Sex (Feat. Pouya) Prod. By Chevali & Diego Farias",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lilaaron911/drugs",
+   "soundcloud_url": "https://soundcloud.com/shakewell818/hit-final-mix-2",
    "source": "apollo",
-   "why": "fits your lil aaron lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive veri",
+   "why": "fits your Shakewell lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive ver",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Dark",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -4529,6 +6599,70 @@
    ]
   },
   {
+   "artist": "College Music",
+   "title": "Tennyson - Innerspace",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/vRKqY/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Billy Korg",
+   "title": "Angels Are Falling",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/zK2Oq/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Paul van der Walt",
+   "title": "The Dawning",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kPx3B/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "LILSIRI.ETH 子 EGGS 💜",
+   "title": "Mind Succor [AUDIUS EXCLUSIVE]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y75m4Ex/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Amarah",
    "title": "Beautiful Mistakes",
    "audius_stream_url": "https://api.audius.co/v1/tracks/J8w3V72/stream?app_name=APOLLOHUNT",
@@ -4546,14 +6680,14 @@
   },
   {
    "artist": "Shakewell",
-   "title": "Terminal Sex (Feat. Pouya) Prod. By Chevali & Diego Farias",
+   "title": "Shakewell - Sleeping Bag (prod. Mikey The Magician)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/shakewell818/hit-final-mix-2",
+   "soundcloud_url": "https://soundcloud.com/shakewell818/shakewell-sleeping-bag-prod-mikey-the-magician",
    "source": "apollo",
    "why": "fits your Shakewell lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive ver",
    "verified_206": false,
    "genre": "",
-   "mood": "Dark",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -4624,6 +6758,70 @@
    ]
   },
   {
+   "artist": "Meek of Okay Beats",
+   "title": "Water colors",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/V5Yxb/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Jay Phoenix",
+   "title": "Jay Phoenix & KLERIS - CHECK!",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/b9a036y/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "HexCeed",
+   "title": "HexCeed - Lost",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/G2j1QAm/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Weaver Beats",
+   "title": "Snortin' Phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/8zPGv/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "HBK JAMAL ",
    "title": "Beautiful nightmare",
    "audius_stream_url": "https://api.audius.co/v1/tracks/aaExaEz/stream?app_name=APOLLOHUNT",
@@ -4641,9 +6839,9 @@
   },
   {
    "artist": "Shakewell",
-   "title": "Shakewell - Sleeping Bag (prod. Mikey The Magician)",
+   "title": "10 Homies Ft. Pouya (Prod. Flexatelli)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/shakewell818/shakewell-sleeping-bag-prod-mikey-the-magician",
+   "soundcloud_url": "https://soundcloud.com/shakewell818/10-homies-ft-pouya-prod-flexatelli",
    "source": "apollo",
    "why": "fits your Shakewell lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive ver",
    "verified_206": false,
@@ -4719,6 +6917,70 @@
    ]
   },
   {
+   "artist": "JonnyD",
+   "title": "Dark whispers of invocation of your pure soul",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/QoBzlG/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Malo Bertrand",
+   "title": "Another Breath - Malo Bertrand",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/py9Rm/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Kamileon",
+   "title": "Guild of Assassins",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/vjza8/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "lowercase drugs",
+   "title": "HUNA - A N I M A L ((DRVGG3D N CH3W3D RMX))",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lpBvZA6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Tropix",
    "title": "Beautiful Soul",
    "audius_stream_url": "https://api.audius.co/v1/tracks/e4zKd/stream?app_name=APOLLOHUNT",
@@ -4735,12 +6997,12 @@
    ]
   },
   {
-   "artist": "Shakewell",
-   "title": "10 Homies Ft. Pouya (Prod. Flexatelli)",
+   "artist": "☆LiL PEEP☆",
+   "title": "we'll be fine",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/shakewell818/10-homies-ft-pouya-prod-flexatelli",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/aa027143-0e6f-4125-9822-bd7250edf53d",
    "source": "apollo",
-   "why": "fits your Shakewell lane (affinity 1.4); underground-leaning pick (mega-hit penalty applied); taste-ranker 0.26 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive ver",
+   "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -4798,6 +7060,70 @@
    ]
   },
   {
+   "artist": "D-Haze",
+   "title": "Sei lá",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/V0gxr/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Legends",
+   "playlists": [
+    "Legends",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "RiotDubs",
+   "title": "Lil Nas X - Panini (Georgia Phoenix Bootleg) [Riot Dubs]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/EG4W4/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "One Gun",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/d9MJYy/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Surce",
+   "title": "🥶 Dark Electronic Trap Type Beat - Bassgod",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/m7Wb1Ep/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "NEUROMASTER",
    "title": "NEUROMASTER - So Beautiful #OSIRIS",
    "audius_stream_url": "https://api.audius.co/v1/tracks/BqG3j/stream?app_name=APOLLOHUNT",
@@ -4814,10 +7140,10 @@
    ]
   },
   {
-   "artist": "☆LiL PEEP☆",
-   "title": "we'll be fine",
+   "artist": "SCARLXRD",
+   "title": "save yxurself",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/aa027143-0e6f-4125-9822-bd7250edf53d",
+   "soundcloud_url": "https://soundcloud.com/scarlxrd/save-yxurself-2",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -4877,6 +7203,54 @@
    ]
   },
   {
+   "artist": "Mohamad",
+   "title": "John Dreamer - Rise Extended (Epic Music) (1)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/WVq6o/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Alexandra Martin",
+   "title": "9. Journey to the Stars",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/K7NwY/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "kopitoo.wav",
+   "title": "phonky phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/VQlj6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Music <3",
    "title": "O gentle heart",
    "audius_stream_url": "https://api.audius.co/v1/tracks/r3aJV/stream?app_name=APOLLOHUNT",
@@ -4893,10 +7267,10 @@
    ]
   },
   {
-   "artist": "SCARLXRD",
-   "title": "save yxurself",
+   "artist": "JASIAH",
+   "title": "i just want a genuine smile",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/scarlxrd/save-yxurself-2",
+   "soundcloud_url": "https://soundcloud.com/jasiah999/i-just-want-a-genuine-smile",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -4956,6 +7330,54 @@
    ]
   },
   {
+   "artist": "Jason Langvee",
+   "title": "Alchemical [Inferno]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/jEw4bq1/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Paark",
+   "title": "Paark - Coldsignal",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/eG4gG/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Slowboy & lucaf. - DISASTER",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/b4EjaKP/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "buhlü",
    "title": "Gentle Groove... feat. GuDa",
    "audius_stream_url": "https://api.audius.co/v1/tracks/3O06x4M/stream?app_name=APOLLOHUNT",
@@ -4972,10 +7394,10 @@
    ]
   },
   {
-   "artist": "JASIAH",
-   "title": "i just want a genuine smile",
+   "artist": "Savage Ga$p (@Savagegasp)",
+   "title": "running thru my head  (｡-_-｡) w/ sewerperson",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/jasiah999/i-just-want-a-genuine-smile",
+   "soundcloud_url": "https://soundcloud.com/avageaspandungique/running-thru-my-head-w-sewerperson",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5035,6 +7457,54 @@
    ]
   },
   {
+   "artist": "Jay Phoenix",
+   "title": "DANCE!",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/agBG1QA/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "𝕻𝖆𝖑𝖒 𝖂𝖆𝖛𝖞",
+   "title": "Fantasy (Feat. Kidd Robb)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/3EAvB/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Malo Bertrand",
+   "title": "Scalovin (feat. New Orleans) - DJ MHouse",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Y5O0J/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Chord Cutter",
    "title": "Gentle Giant",
    "audius_stream_url": "https://api.audius.co/v1/tracks/WNzlrq9/stream?app_name=APOLLOHUNT",
@@ -5052,14 +7522,14 @@
   },
   {
    "artist": "Savage Ga$p (@Savagegasp)",
-   "title": "running thru my head  (｡-_-｡) w/ sewerperson",
+   "title": "let me die(ノ_・。) w/ polearm (prod. fth)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/avageaspandungique/running-thru-my-head-w-sewerperson",
+   "soundcloud_url": "https://soundcloud.com/avageaspandungique/let-me-die_w-polearm-prod-fth",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Dark",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5114,6 +7584,54 @@
    ]
   },
   {
+   "artist": "Jason Langvee",
+   "title": "Alchemical [Fusion]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Qb02R73/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "SKAABZ",
+   "title": "Lost In The Unknown (gameplay trailer music)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/OJW2R/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Music Altern Dj",
+   "title": "Dj Psyco85 - Umigodegumy (Latin Phonk)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/EqXkvlM/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "graves",
    "title": "hilo x because of u x never be like you",
    "audius_stream_url": "https://api.audius.co/v1/tracks/DEozQ/stream?app_name=APOLLOHUNT",
@@ -5130,15 +7648,15 @@
    ]
   },
   {
-   "artist": "Savage Ga$p (@Savagegasp)",
-   "title": "let me die(ノ_・。) w/ polearm (prod. fth)",
+   "artist": "Prompto",
+   "title": "Ed, Edd n Eddy (Prod. Kreepy)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/avageaspandungique/let-me-die_w-polearm-prod-fth",
+   "soundcloud_url": "https://soundcloud.com/promptomusic/ed-edd-n-eddy-prod-kreepy",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Dark",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5193,6 +7711,54 @@
    ]
   },
   {
+   "artist": "Link",
+   "title": "Free Epic Music (No Copyright) Fire And Thunder by Cjbeards",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lpkGO/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "Costa Brava",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/WxjzKOo/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Pacific Patterns",
+   "title": "RAAQEL - A girl is a gun (Pacific Patterns Remix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kmM4V/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "graves",
    "title": "Transmissions (feat. Maazel)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/epJYL/stream?app_name=APOLLOHUNT",
@@ -5210,9 +7776,9 @@
   },
   {
    "artist": "Prompto",
-   "title": "Ed, Edd n Eddy (Prod. Kreepy)",
+   "title": "Scargazer (Prod. ³³marrow)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/promptomusic/ed-edd-n-eddy-prod-kreepy",
+   "soundcloud_url": "https://soundcloud.com/promptomusic/scargazer-prod-marrow",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5272,6 +7838,54 @@
    ]
   },
   {
+   "artist": "Rob Cawley",
+   "title": "Mars",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/v2J5K/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "Imminence",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/W62w5pv/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Quality Goods Records",
+   "title": "QGR-042S | Zachary & .NET RUN - WYGD",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/54xlwYg/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "graves",
    "title": "Deadsong (feat. 93FEETOFSMOKE)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/nZ9Ee/stream?app_name=APOLLOHUNT",
@@ -5289,9 +7903,9 @@
   },
   {
    "artist": "Prompto",
-   "title": "Scargazer (Prod. ³³marrow)",
+   "title": "Break (Prod. NVGLY)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/promptomusic/scargazer-prod-marrow",
+   "soundcloud_url": "https://soundcloud.com/promptomusic/break",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5351,10 +7965,58 @@
    ]
   },
   {
-   "artist": "Prompto",
-   "title": "Break (Prod. NVGLY)",
+   "artist": "Mkhairu4",
+   "title": "John Dreamer - Rise Extended (Epic Music) (1)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lJx96/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Matt Magus",
+   "title": "Thyme",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Q7jpV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Pressse",
+   "title": "CyberHeart! (Luv in a Feedback Loop)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/E2A6Qpo/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "OmenXIII",
+   "title": "Patience (Prod. GREAF)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/promptomusic/break",
+   "soundcloud_url": "https://soundcloud.com/omenxiii/patience-prod-greaf",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5414,15 +8076,63 @@
    ]
   },
   {
-   "artist": "OmenXIII",
-   "title": "Patience (Prod. GREAF)",
+   "artist": "EpicLafiteau",
+   "title": "Blue Mountain Mystery Theme Music - Title Sequence",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/n1xJX/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Charles Mesa",
+   "title": "Personal Serv",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/jlldo/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "Rxm リム - SAD!",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/v2ZxxpV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "FREDDIE DREDD",
+   "title": "FREDDIE DREDD - THEY WILL KNOW ME (PROD. RYAN C) **ORIGINAL**",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/omenxiii/patience-prod-greaf",
+   "soundcloud_url": "https://soundcloud.com/freddiedredd/freddie-dredd-they-will-know-me-prod-ryan-c-original",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Dark",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5477,15 +8187,63 @@
    ]
   },
   {
-   "artist": "FREDDIE DREDD",
-   "title": "FREDDIE DREDD - THEY WILL KNOW ME (PROD. RYAN C) **ORIGINAL**",
+   "artist": "ZANON",
+   "title": "Maxxi Soundsystem - Medicine (Zanon, Capital Monkey Edit)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/oW8g2/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "VARIANT",
+   "title": "WE ARE FURY - Poem Of A Killer (w/ Elijah Cruise)[VARIANT Remix]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/lZVpzVN/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "TEKNEIN",
+   "title": "No Political Solution",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/xvzmX/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Eddy Baker",
+   "title": "WAIT ON ME",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/freddiedredd/freddie-dredd-they-will-know-me-prod-ryan-c-original",
+   "soundcloud_url": "https://soundcloud.com/eddybaker/wait-on-me",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Dark",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5540,10 +8298,58 @@
    ]
   },
   {
-   "artist": "Eddy Baker",
-   "title": "WAIT ON ME",
+   "artist": "Kevin Kuschel",
+   "title": "My Calling",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/QNRxV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "brokenkites",
+   "title": "Animals",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/arla3j/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "TEKNEIN",
+   "title": "Die Kirche",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/63Rv9/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Chris Travis",
+   "title": "U & Me",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/eddybaker/wait-on-me",
+   "soundcloud_url": "https://soundcloud.com/christravis/u-me",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5603,10 +8409,58 @@
    ]
   },
   {
-   "artist": "Chris Travis",
-   "title": "U & Me",
+   "artist": "Pamela Yuen",
+   "title": "Enough of the Past",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y5ARE/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Anthony Lo Re",
+   "title": "Queen of Darkness",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/bKGAW/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "stevvie🕴",
+   "title": "PHONK MEISTER",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/w7gxb/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "fish narc",
+   "title": "Yung Bruh Lil Tracy Souljahwitch - A Souljah's Dream prod. by Fish Narc",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/christravis/u-me",
+   "soundcloud_url": "https://soundcloud.com/fish_narc/yung-bruh-a-souljahs-dream",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5666,10 +8520,58 @@
    ]
   },
   {
+   "artist": "My Energy And Time",
+   "title": "Aether Madness",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/j4axj/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "brokenkites",
+   "title": "Phantoms (Penny Palabras Mix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/BJ9YyrQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "TEKNEIN",
+   "title": "The Rapids",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/M6pdQ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "fish narc",
-   "title": "Yung Bruh Lil Tracy Souljahwitch - A Souljah's Dream prod. by Fish Narc",
+   "title": "WHY? feat. Lil Tracy, Fantasy Camp and Zubin",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/fish_narc/yung-bruh-a-souljahs-dream",
+   "soundcloud_url": "https://soundcloud.com/fish_narc/why-feat-lil-tracy-fantasy-camp-and-lil-zubin",
    "source": "apollo",
    "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5730,15 +8632,63 @@
    ]
   },
   {
-   "artist": "fish narc",
-   "title": "WHY? feat. Lil Tracy, Fantasy Camp and Zubin",
-   "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/fish_narc/why-feat-lil-tracy-fantasy-camp-and-lil-zubin",
+   "artist": "Jason Langvee",
+   "title": "Alchemical [Instrumental]",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/P5orb4J/stream",
+   "soundcloud_url": "",
    "source": "apollo",
-   "why": "strong hunt score 7/10 in ; taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Enough Records",
+   "title": "04_xalm_retribution_-_someone_is_looking_at_you_in_the_dark",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/B5Bkj/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "coming soon",
+   "title": "Svansy - Everything",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/kJrq0RV/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Pouya .",
+   "title": "1000 Rounds Ft. Ghostemane [Prod. by: FLEXATELLI]",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/pouya-kevin/1000rounds",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "verified_206": false,
+   "genre": "",
+   "mood": "Brooding",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5794,15 +8744,63 @@
    ]
   },
   {
+   "artist": "Sthorm",
+   "title": "League of Legends - Phoenix (Sthorm Remix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/KKZmO/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "VALE",
+   "title": "Result - Spasm",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Maa7X/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "AmirAli Morph",
+   "title": "PHONK",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/42O848a/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Pouya .",
-   "title": "1000 Rounds Ft. Ghostemane [Prod. by: FLEXATELLI]",
+   "title": "Suicidal Thoughts In The Back Of The Cadillac (Prod.Mikey The Magician)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/pouya-kevin/1000rounds",
+   "soundcloud_url": "https://soundcloud.com/pouya-kevin/suicidal-thoughts-in-the-back-of-the-cadillac-prodmikey-the-magician",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Brooding",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -5858,10 +8856,58 @@
    ]
   },
   {
+   "artist": "D.L.i.d",
+   "title": "Phoenix 1901 customised by DLID",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/ygxaZ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Sudden",
+   "title": "To Be Me and You",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/95Km43G/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Dark Cinematic",
+   "playlists": [
+    "Dark Cinematic",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Nocti Vox 89",
+   "title": "Resurrection of the Dark Angel",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y9aR5M7/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Pouya .",
-   "title": "Suicidal Thoughts In The Back Of The Cadillac (Prod.Mikey The Magician)",
+   "title": "Pouya - Get Buck ( Prod.Rellim )",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/pouya-kevin/suicidal-thoughts-in-the-back-of-the-cadillac-prodmikey-the-magician",
+   "soundcloud_url": "https://soundcloud.com/pouya-kevin/pouya-get-buck-prod-rellim",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5922,10 +8968,42 @@
    ]
   },
   {
-   "artist": "Pouya .",
-   "title": "Pouya - Get Buck ( Prod.Rellim )",
+   "artist": "Mkhairu4",
+   "title": "John Dreamer - Rise Extended (Epic Music) (1)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/JB29o/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Black Hole Recordings",
+   "title": "BT - Laurel Canyon Night Drive (Jody Wisternoff Breaking Sticks Remix)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/5Bbg756/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "☆LiL PEEP☆",
+   "title": "Lil Peep & XXXTentacion - Falling Down",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/pouya-kevin/pouya-get-buck-prod-rellim",
+   "soundcloud_url": "https://soundcloud.com/lil_peep/lil-peep-ft-xxxtentacion-falling-down",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -5986,15 +9064,47 @@
    ]
   },
   {
-   "artist": "☆LiL PEEP☆",
-   "title": "Lil Peep & XXXTentacion - Falling Down",
+   "artist": "Jeff Heim",
+   "title": "Moonlight",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/nQG6G/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Equinity",
+   "title": "Shuffle Horse - Hot Salsa",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/eYblJ/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "SCARLXRD",
+   "title": "Heart Attack [Prod. JVCXB]",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/lil_peep/lil-peep-ft-xxxtentacion-falling-down",
+   "soundcloud_url": "https://soundcloud.com/scarlxrd/heart-attack-prod-jvcxb",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Heartbroken",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -6050,15 +9160,47 @@
    ]
   },
   {
+   "artist": "Darryl Greer",
+   "title": "By The Time I Get To Phoenix",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/JNqGMY/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "TEKNEIN",
+   "title": "Will2Rise",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/1GVQX/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "SCARLXRD",
-   "title": "Heart Attack [Prod. JVCXB]",
+   "title": "6 FEET [Prod. MUPPY]",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/scarlxrd/heart-attack-prod-jvcxb",
+   "soundcloud_url": "https://soundcloud.com/scarlxrd/6-feet-prod-muppy",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Heartbroken",
+   "mood": "Emotional",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -6114,10 +9256,42 @@
    ]
   },
   {
-   "artist": "SCARLXRD",
-   "title": "6 FEET [Prod. MUPPY]",
+   "artist": "EAST AFRICA DRILL EXCLUSIVES",
+   "title": "Epic Soundtrack Music (instrumental)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/wzwp68k/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Stradius",
+   "title": "What Owns Who",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/myqWr/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "JASIAH",
+   "title": "Shenanigans feat. Yung Bans (prod. Jasiah & Ronny J)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/scarlxrd/6-feet-prod-muppy",
+   "soundcloud_url": "https://soundcloud.com/jasiah999/jasiah-shenanigans-feat-yung-bans-prod-ronny-j",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6178,10 +9352,42 @@
    ]
   },
   {
+   "artist": "Michel Lemay",
+   "title": "From Here To Eternity",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Pb8JX/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "The Second Child",
+   "title": "Cradle To Grave",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/dpR9M/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "JASIAH",
-   "title": "Shenanigans feat. Yung Bans (prod. Jasiah & Ronny J)",
+   "title": "Crisis PROD. JA$IAH",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/jasiah999/jasiah-shenanigans-feat-yung-bans-prod-ronny-j",
+   "soundcloud_url": "https://soundcloud.com/jasiah999/crisis",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6226,10 +9432,58 @@
    ]
   },
   {
-   "artist": "JASIAH",
-   "title": "Crisis PROD. JA$IAH",
+   "artist": "Tha Aadity",
+   "title": "Money Fountains (Feat. DBM Eclipze)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/jasiah999/crisis",
+   "soundcloud_url": "https://soundcloud.com/you4earecordsofficial/money-fountains-feat-dbm",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Tha Aadity",
+   "playlists": [
+    "Tha Aadity",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "GrimWax",
+   "title": "Metal Bird",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/LMXNm/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Trapical Music",
+   "title": "driftboi, CYPOVA - just a chill phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/936pwpM/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "NASCAR ALOE",
+   "title": "SPMO! (prod. @DUEYDIRTY)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/spmo-prod-dueydirty",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6274,10 +9528,42 @@
    ]
   },
   {
+   "artist": "ZANNKI's music",
+   "title": "Attack on Titan Season 4 Trailer music COVER",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/k2JjK/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "ruh7inas",
+   "title": "Phonk",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Q71mVNG/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "NASCAR ALOE",
-   "title": "SPMO! (prod. @DUEYDIRTY)",
+   "title": "FED UP!",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/spmo-prod-dueydirty",
+   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/fed-up",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6322,10 +9608,42 @@
    ]
   },
   {
-   "artist": "NASCAR ALOE",
-   "title": "FED UP!",
+   "artist": "Seva M",
+   "title": "Gift Wrapping",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/2G3xMy6/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "BARx̄",
+   "title": "Byway",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/WVVBl/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Night Drive",
+   "playlists": [
+    "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "☆TOKYO'S REVENGE☆",
+   "title": "GOTHAM",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/drinkinaloefeelinshallow/fed-up",
+   "soundcloud_url": "https://soundcloud.com/tokyosrevenge/gotham",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6369,12 +9687,28 @@
    ]
   },
   {
-   "artist": "☆TOKYO'S REVENGE☆",
-   "title": "GOTHAM",
-   "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/tokyosrevenge/gotham",
+   "artist": "Kevin Paris",
+   "title": "Strongest Medicine (With Casey Kalmenson)",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/y7GE7/stream",
+   "soundcloud_url": "",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "iann dior",
+   "title": "@ianndior - molly feat. bernard jabs (prod. nick mira)",
+   "audius_stream_url": "",
+   "soundcloud_url": "https://soundcloud.com/ianndior/iann-dior-molly-feat-bernard-jabs-prod-nick-mira",
+   "source": "apollo",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -6416,10 +9750,26 @@
    ]
   },
   {
+   "artist": "Jeff Heim",
+   "title": "This Is Home",
+   "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/D9r3j/stream",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Phoenix Rising",
+   "playlists": [
+    "Phoenix Rising",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "iann dior",
-   "title": "@ianndior - molly feat. bernard jabs (prod. nick mira)",
+   "title": "gone girl feat. Trippie Redd (Prod. Pharaoh Vice, Nick Mira & Jared Scharff)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/ianndior/iann-dior-molly-feat-bernard-jabs-prod-nick-mira",
+   "soundcloud_url": "https://soundcloud.com/ianndior/gone-girl-ft-trippie-redd",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
@@ -6463,12 +9813,12 @@
    ]
   },
   {
-   "artist": "iann dior",
-   "title": "gone girl feat. Trippie Redd (Prod. Pharaoh Vice, Nick Mira & Jared Scharff)",
+   "artist": "convolk",
+   "title": "i fucked up",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/ianndior/gone-girl-ft-trippie-redd",
+   "soundcloud_url": "https://soundcloud.com/convolk/i-fucked-up",
    "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
    "mood": "Emotional",
@@ -6511,14 +9861,14 @@
   },
   {
    "artist": "convolk",
-   "title": "i fucked up",
+   "title": "whatever it takes (feat. guardin & 9tails)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/convolk/i-fucked-up",
+   "soundcloud_url": "https://soundcloud.com/convolk/whatever-it-takes-guardin-9tails",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Emotional",
+   "mood": "Defiant",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -6557,15 +9907,15 @@
    ]
   },
   {
-   "artist": "convolk",
-   "title": "whatever it takes (feat. guardin & 9tails)",
+   "artist": "Savage Ga$p (@Savagegasp)",
+   "title": "pumpkins scream in the dead of night ☾⊙﹏⊙☾ w/shinigami (prod.93feetofsmoke)",
    "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/convolk/whatever-it-takes-guardin-9tails",
+   "soundcloud_url": "https://soundcloud.com/avageaspandungique/pumpkins-scream-in-the-dead-of-night-wshinigami-prod93feetofsmoke",
    "source": "apollo",
    "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
    "verified_206": false,
    "genre": "",
-   "mood": "Defiant",
+   "mood": "Dark",
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
@@ -6604,38 +9954,6 @@
    ]
   },
   {
-   "artist": "Savage Ga$p (@Savagegasp)",
-   "title": "pumpkins scream in the dead of night ☾⊙﹏⊙☾ w/shinigami (prod.93feetofsmoke)",
-   "audius_stream_url": "",
-   "soundcloud_url": "https://soundcloud.com/avageaspandungique/pumpkins-scream-in-the-dead-of-night-wshinigami-prod93feetofsmoke",
-   "source": "apollo",
-   "why": "underground-leaning pick (mega-hit penalty applied); taste-ranker 0.00 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
-   "verified_206": false,
-   "genre": "",
-   "mood": "Dark",
-   "playlist": "Rap Rotation",
-   "playlists": [
-    "Rap Rotation",
-    "Full Blend"
-   ]
-  },
-  {
-   "artist": "NickT",
-   "title": "Sophia's Song",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/5Q7Vz1V/stream?app_name=APOLLOHUNT",
-   "soundcloud_url": "",
-   "source": "apollo",
-   "why": "",
-   "verified_206": false,
-   "genre": "",
-   "mood": "",
-   "playlist": "Apollo Hunt",
-   "playlists": [
-    "Apollo Hunt",
-    "Full Blend"
-   ]
-  },
-  {
    "artist": "OmenXIII",
    "title": "LED (Prod. Grigoryan)",
    "audius_stream_url": "",
@@ -6652,9 +9970,9 @@
    ]
   },
   {
-   "artist": "Samson",
-   "title": "goodbye",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/9dq30/stream?app_name=APOLLOHUNT",
+   "artist": "NickT",
+   "title": "Sophia's Song",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/5Q7Vz1V/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6684,9 +10002,9 @@
    ]
   },
   {
-   "artist": "THE ZAVARA",
-   "title": "Club Heaven",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/ryz5m1Z/stream?app_name=APOLLOHUNT",
+   "artist": "Samson",
+   "title": "goodbye",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/9dq30/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6716,9 +10034,9 @@
    ]
   },
   {
-   "artist": "Bovine Productions",
-   "title": "Laundromat (Belinda)",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/bGWxjX/stream?app_name=APOLLOHUNT",
+   "artist": "THE ZAVARA",
+   "title": "Club Heaven",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/ryz5m1Z/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6748,9 +10066,9 @@
    ]
   },
   {
-   "artist": "The Don",
-   "title": "Letter to Heaven",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/2RYvNQy/stream?app_name=APOLLOHUNT",
+   "artist": "Bovine Productions",
+   "title": "Laundromat (Belinda)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/bGWxjX/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6780,9 +10098,9 @@
    ]
   },
   {
-   "artist": "nobody",
-   "title": "Forgive me",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/87l5m/stream?app_name=APOLLOHUNT",
+   "artist": "The Don",
+   "title": "Letter to Heaven",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/2RYvNQy/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6812,9 +10130,9 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "angeldust",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/x4K7Mj/stream?app_name=APOLLOHUNT",
+   "artist": "nobody",
+   "title": "Forgive me",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/87l5m/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6844,9 +10162,9 @@
    ]
   },
   {
-   "artist": "osamason",
-   "title": "Lean Diet",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/NzY7g24/stream?app_name=APOLLOHUNT",
+   "artist": "Lil Peep",
+   "title": "angeldust",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/x4K7Mj/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6876,9 +10194,9 @@
    ]
   },
   {
-   "artist": "Lil Peep",
-   "title": "live forever",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/8OOR4OO/stream?app_name=APOLLOHUNT",
+   "artist": "osamason",
+   "title": "Lean Diet",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NzY7g24/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6908,9 +10226,9 @@
    ]
   },
   {
-   "artist": "TWITCHY BONES",
-   "title": "TIMELOST",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/YJA2y/stream?app_name=APOLLOHUNT",
+   "artist": "Lil Peep",
+   "title": "live forever",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/8OOR4OO/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6940,9 +10258,9 @@
    ]
   },
   {
-   "artist": "YUNGXANAX",
-   "title": "OUR LOVE",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/lWXq97Z/stream?app_name=APOLLOHUNT",
+   "artist": "TWITCHY BONES",
+   "title": "TIMELOST",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/YJA2y/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -6972,9 +10290,9 @@
    ]
   },
   {
-   "artist": "THE ZAVARA",
-   "title": "Lost Cause",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/Q73XoOG/stream?app_name=APOLLOHUNT",
+   "artist": "YUNGXANAX",
+   "title": "OUR LOVE",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/lWXq97Z/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7004,9 +10322,9 @@
    ]
   },
   {
-   "artist": "Kankan",
-   "title": "Demon Time",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/3RkaJ/stream?app_name=APOLLOHUNT",
+   "artist": "THE ZAVARA",
+   "title": "Lost Cause",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Q73XoOG/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7036,9 +10354,9 @@
    ]
   },
   {
-   "artist": "Above and Below",
-   "title": "Xotix - Cranial Therapy",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/7lBrW/stream?app_name=APOLLOHUNT",
+   "artist": "Kankan",
+   "title": "Demon Time",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/3RkaJ/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7068,9 +10386,9 @@
    ]
   },
   {
-   "artist": "nickyxplicit",
-   "title": "love is pain",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/M6KYo/stream?app_name=APOLLOHUNT",
+   "artist": "Above and Below",
+   "title": "Xotix - Cranial Therapy",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/7lBrW/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7100,9 +10418,9 @@
    ]
   },
   {
-   "artist": "THE VAGUS CO.",
-   "title": "VΛCΛNCY",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/NlAM4/stream?app_name=APOLLOHUNT",
+   "artist": "nickyxplicit",
+   "title": "love is pain",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/M6KYo/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7132,9 +10450,9 @@
    ]
   },
   {
-   "artist": "Needraw",
-   "title": "Reborn",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/j43v1/stream?app_name=APOLLOHUNT",
+   "artist": "THE VAGUS CO.",
+   "title": "VΛCΛNCY",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/NlAM4/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7164,9 +10482,9 @@
    ]
   },
   {
-   "artist": "Lil Doom Boy",
-   "title": "Crow in a Coffin",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/P61Pk/stream?app_name=APOLLOHUNT",
+   "artist": "Needraw",
+   "title": "Reborn",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/j43v1/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
@@ -7192,6 +10510,22 @@
    "playlist": "Rap Rotation",
    "playlists": [
     "Rap Rotation",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Lil Doom Boy",
+   "title": "Crow in a Coffin",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/P61Pk/stream?app_name=APOLLOHUNT",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
     "Full Blend"
    ]
   },
@@ -7311,22 +10645,6 @@
    "artist": "2hollis",
    "title": "I KNOW",
    "audius_stream_url": "https://api.audius.co/v1/tracks/A9BWK/stream?app_name=APOLLOHUNT",
-   "soundcloud_url": "",
-   "source": "apollo",
-   "why": "",
-   "verified_206": false,
-   "genre": "",
-   "mood": "",
-   "playlist": "Apollo Hunt",
-   "playlists": [
-    "Apollo Hunt",
-    "Full Blend"
-   ]
-  },
-  {
-   "artist": "Nick Neutronz",
-   "title": "Matrix Tears",
-   "audius_stream_url": "https://api.audius.co/v1/tracks/P5O5p/stream?app_name=APOLLOHUNT",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
