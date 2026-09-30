@@ -1,7 +1,7 @@
 {
- "version": 12,
- "generated_at": "2026-09-28T12:13:34.252788+00:00",
- "track_count": 897,
+ "version": 13,
+ "generated_at": "2026-09-30T12:14:23.480129+00:00",
+ "track_count": 900,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -14149,6 +14149,22 @@
    ]
   },
   {
+   "artist": "Cloutsyder",
+   "title": "F33LSHIT ft. Moxs",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/eJ0g0/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Quality Goods Records",
    "title": "QGR-038S1 | UZ X SoloSam - Pray",
    "audius_stream_url": "https://api.audius.co/v1/tracks/lajx0jO/stream?app_name=APOLLOHUNT",
@@ -14160,6 +14176,38 @@
    "mood": "",
    "playlist": "",
    "playlists": [
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "MXIII",
+   "title": "Beast in Us (feat. J.s.R)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/z8vWxrz/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Cloutsyder",
+   "title": "Toluca Lake (feat. Lil Katy)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/D9am0/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
     "Full Blend"
    ]
   }
