@@ -13,6 +13,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -36,8 +39,10 @@ jobs:
           ARGS=""
           if [ "$EVENT" = "pull_request" ]; then
             git show "origin/$BASE_REF:catalog.json" > /tmp/base_catalog.json 2>/dev/null && ARGS="--base-file /tmp/base_catalog.json"
+            [ -z "$ARGS" ] && echo "base catalog unavailable; skipping version-bump check" >&2
           elif [ "$EVENT" = "push" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
             git show "$BEFORE:catalog.json" > /tmp/base_catalog.json 2>/dev/null && ARGS="--base-file /tmp/base_catalog.json"
+            [ -z "$ARGS" ] && echo "base catalog unavailable; skipping version-bump check" >&2
           fi
           python3 tools/catalog_validate.py remote catalog.json --allowlist tools/allowlist.txt $ARGS > catalog-validate-report.json
           rc=$?
