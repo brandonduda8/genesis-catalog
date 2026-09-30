@@ -1,0 +1,53 @@
+name: catalog-validate
+
+# Deterministic checks on catalog.json: no network, no stream probes.
+# The self-test is a hard gate so the validator itself stays honest.
+# The catalog check is REPORT-ONLY for now (continue-on-error): it flags the
+# duplicate artist+title pairs without blocking merges. Flip to blocking by
+# deleting the continue-on-error line in the same PR that lands the cleanup.
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validator self-test (hard gate)
+        run: python3 tools/catalog_validate.py selftest
+
+      - name: Validate catalog.json (report-only)
+        continue-on-error: true
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE_REF: ${{ github.base_ref }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set +e
+          ARGS=""
+          if [ "$EVENT" = "pull_request" ]; then
+            git show "origin/$BASE_REF:catalog.json" > /tmp/base_catalog.json 2>/dev/null && ARGS="--base-file /tmp/base_catalog.json"
+          elif [ "$EVENT" = "push" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            git show "$BEFORE:catalog.json" > /tmp/base_catalog.json 2>/dev/null && ARGS="--base-file /tmp/base_catalog.json"
+          fi
+          python3 tools/catalog_validate.py remote catalog.json --allowlist tools/allowlist.txt $ARGS > catalog-validate-report.json
+          rc=$?
+          cat catalog-validate-report.json
+          exit $rc
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-validate-report
+          path: catalog-validate-report.json
+          if-no-files-found: ignore

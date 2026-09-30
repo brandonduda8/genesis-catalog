@@ -1,0 +1,5 @@
+# Known duplicate artist+title pairs that are intentionally kept.
+# One pair per line as: artist|title   (matching ignores case and extra spaces)
+# Lines starting with # are comments. A malformed line stops the validator.
+# Leave this file empty until the duplicate cleanup decides which pairs, if any, are legitimate
+# (for example two different versions of the same song). Do not list a pair just to silence CI.
