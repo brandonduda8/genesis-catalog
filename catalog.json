@@ -1,7 +1,7 @@
 {
- "version": 13,
- "generated_at": "2026-09-30T12:14:23.480129+00:00",
- "track_count": 900,
+ "version": 14,
+ "generated_at": "2026-10-01T12:13:48.565826+00:00",
+ "track_count": 914,
  "tracks": [
   {
    "artist": "Lil Peep",
@@ -225,6 +225,22 @@
    "playlist": "Night Drive",
    "playlists": [
     "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "SPOOK",
+   "title": "NOSEBLEED (FEAT. SIGMA STRANGE)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/ePNOp/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
     "Full Blend"
    ]
   },
@@ -836,6 +852,22 @@
    ]
   },
   {
+   "artist": "enluv",
+   "title": "Lunar Trail",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/95vOa/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Cloud Nine",
+   "playlists": [
+    "Cloud Nine",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "BONES & Xavier Wulf",
    "title": "WeatherMan",
    "audius_stream_url": "https://api.audius.co/v1/tracks/872xP/stream?app_name=aurum_player",
@@ -1025,6 +1057,22 @@
    "playlist": "Night Drive",
    "playlists": [
     "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "MICah",
+   "title": "Rage",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/KzG54Br/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
     "Full Blend"
    ]
   },
@@ -1394,6 +1442,22 @@
    ]
   },
   {
+   "artist": "LucidDream.",
+   "title": "LucidDream. - Midnight",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/jNEdG/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Cloud Nine",
+   "playlists": [
+    "Cloud Nine",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Xavier Wulf",
    "title": "Psycho Pass",
    "audius_stream_url": "https://api.audius.co/v1/tracks/wy19k/stream?app_name=aurum_player",
@@ -1582,6 +1646,22 @@
    "playlist": "Night Drive",
    "playlists": [
     "Night Drive",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Alumni XI",
+   "title": "Tear It Up",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/3oYWgOZ/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
     "Full Blend"
    ]
   },
@@ -2078,6 +2158,22 @@
    ]
   },
   {
+   "artist": "OneWingedAJ",
+   "title": "WASP 12B",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/DN9RZ/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Smith The Mister",
    "title": "Bad Valentine",
    "audius_stream_url": "https://api.audius.co/v1/tracks/lapNA/stream?app_name=APOLLOHUNT",
@@ -2486,6 +2582,23 @@
    "playlist": "Night Drive",
    "playlists": [
     "Night Drive",
+    "Cloud Nine",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "El Attah",
+   "title": "Demon",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/kGPXlWV/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
     "Full Blend"
    ]
   },
@@ -2643,6 +2756,38 @@
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "EQTracks",
+   "title": "I'm Undone",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/GNMQWBE/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Peep Forever",
+   "playlists": [
+    "Peep Forever",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Zhady",
+   "title": "Don't Cry",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/YJPxr/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Deep Poetry Trap",
+   "playlists": [
+    "Deep Poetry Trap",
     "Full Blend"
    ]
   },
@@ -2807,6 +2952,22 @@
    ]
   },
   {
+   "artist": "Cena Underground",
+   "title": "DARK TRAP VOL 2 - NIGHT LOVELL X GHOSTMANE X BONES",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/qRjM6V2/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Underground Heat",
+   "playlists": [
+    "Underground Heat",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "MARC SHDW",
    "title": "MARC SHDW - House Away The Pain",
    "audius_stream_url": "https://api.audius.co/v1/tracks/vZWBR/stream?app_name=APOLLOHUNT",
@@ -2930,6 +3091,22 @@
    "playlists": [
     "SPANDA: SWARM",
     "Rap Rotation",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "anonMS",
+   "title": "i can be lonely",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/1OzZEOd/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Deep Poetry Trap",
+   "playlists": [
+    "Deep Poetry Trap",
     "Full Blend"
    ]
   },
@@ -3188,6 +3365,22 @@
    ]
   },
   {
+   "artist": "BLACKTYDE",
+   "title": "BLACKTYDE × PAYTRA - Lost My Friends (Original Mix)",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/JEZw23Y/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Deep Poetry Trap",
+   "playlists": [
+    "Deep Poetry Trap",
+    "Full Blend"
+   ]
+  },
+  {
    "artist": "Find The Joy",
    "title": "Cant Remember",
    "audius_stream_url": "https://api.audius.co/v1/tracks/wzEq6Kk/stream?app_name=aurum_player",
@@ -3438,6 +3631,22 @@
    "playlist": "SPANDA: SWARM",
    "playlists": [
     "SPANDA: SWARM",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "Nessa Feels",
+   "title": "Lonely",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/BaJjA/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Deep Poetry Trap",
+   "playlists": [
+    "Deep Poetry Trap",
     "Full Blend"
    ]
   },
@@ -13727,7 +13936,8 @@
    "playlist": "Apollo Hunt",
    "playlists": [
     "Apollo Hunt",
-    "Full Blend"
+    "Full Blend",
+    "Cloud Nine"
    ]
   },
   {
@@ -14199,6 +14409,22 @@
    "artist": "Cloutsyder",
    "title": "Toluca Lake (feat. Lil Katy)",
    "audius_stream_url": "https://api.audius.co/v1/tracks/D9am0/stream?app_name=aurum_player",
+   "soundcloud_url": "",
+   "source": "apollo",
+   "why": "",
+   "verified_206": false,
+   "genre": "",
+   "mood": "",
+   "playlist": "Apollo Hunt",
+   "playlists": [
+    "Apollo Hunt",
+    "Full Blend"
+   ]
+  },
+  {
+   "artist": "SELTRAH",
+   "title": "Time Bomb",
+   "audius_stream_url": "https://api.audius.co/v1/tracks/Kvq6O/stream?app_name=aurum_player",
    "soundcloud_url": "",
    "source": "apollo",
    "why": "",
