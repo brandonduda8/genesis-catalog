@@ -1,6 +1,425 @@
 {
-  "version": 11,
-  "generated_at": "2026-10-05T14:29:11Z",
-  "track_count": 0,
-  "tracks": []
+  "version": 12,
+  "generated_at": "2026-10-06T07:15:38Z",
+  "name": "RAGE (draft shortlist)",
+  "note": "Added on Brandon's direct order 2026-10-06. Astra confirmation pending — shipped as the staged draft shortlist, not yet the confirmed exact Alliance playlist.",
+  "track_count": 32,
+  "tracks": [
+    {
+      "artist": "Fat Nick",
+      "title": "Living Large (Feat. Maxo Kream)",
+      "genre": "Hip-Hop/Rap",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Fat Nick lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.58 (blend weight 0.4) — Rap Rotation pick; artist's own Audius upload, stream re-verified playable",
+      "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/GNRNv/stream"
+    },
+    {
+      "artist": "Witchouse 40k",
+      "title": "Hellhound Militia - GHO$T CLIP",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/hell_usa/hellhound-militia-ghot-clip"
+    },
+    {
+      "artist": "SEMATARY",
+      "title": "SEMATARY - GLOOM ROOM FT. GHOST MOUNTAIN (PROD. SEMATARY)",
+      "genre": "",
+      "mood": "Brooding",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.53 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/semataryy/sematary-gloom-room-ft-ghost"
+    },
+    {
+      "artist": "SEMATARY",
+      "title": "SEMATARY - SLAUGHTER HOUSE **VIDEO IN DESCRIPTION**",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/semataryy/01-slaughter-house"
+    },
+    {
+      "artist": "SEMATARY",
+      "title": "SEMATARY FT. GHOST MOUNTAIN - BUNNY SUIT **VIDEO IN DESCRIPTION**",
+      "genre": "",
+      "mood": "Brooding",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "SEMATARY is a top-taste anchor (affinity 1.8); taste-ranker 0.51 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/semataryy/sematary-ft-ghost-mountain-bunny-suit"
+    },
+    {
+      "artist": "glo",
+      "title": "damn glo prod sil",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.49 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-prod-sil"
+    },
+    {
+      "artist": "glo",
+      "title": "damn glo 2 ft jace",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.49 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/glofromda4/damn-glo-2-with-iayze-braylle"
+    },
+    {
+      "artist": "whxami",
+      "title": "rabbit hole (prod. KAMAARA)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "whxami is a top-taste anchor (affinity 1.7); taste-ranker 0.48 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/whxami/rabbit-hole-prod-kamaara"
+    },
+    {
+      "artist": "whxami",
+      "title": "HIGHSCHOOL (prod. GHOSTEMANE)",
+      "genre": "",
+      "mood": "Brooding",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "whxami is a top-taste anchor (affinity 1.7); taste-ranker 0.48 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/whxami/highschool-prod-ghostemane"
+    },
+    {
+      "artist": "Fat Nick",
+      "title": "Park It (Feat. Lil Jerry)",
+      "genre": "Hip-Hop/Rap",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Fat Nick lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.57 (blend weight 0.4) — Rap Rotation pick; artist's own Audius upload, stream re-verified playable",
+      "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/mRWyp/stream"
+    },
+    {
+      "artist": "Fat Nick",
+      "title": "Take Off",
+      "genre": "Hip-Hop/Rap",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Fat Nick lane (affinity 1.4); Hip-Hop/Rap is a high-weight genre (1.35); taste-ranker 0.57 (blend weight 0.4) — Rap Rotation pick; artist's own Audius upload, stream re-verified playable",
+      "audius_stream_url": "https://discoveryprovider.audius.co/v1/tracks/Q0R03/stream"
+    },
+    {
+      "artist": "GHOSTEMANE",
+      "title": "GHOSTEMANE - Venom",
+      "genre": "",
+      "mood": "Brooding",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "GHOSTEMANE is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/ghostemane/ghostemane-venom"
+    },
+    {
+      "artist": "guardin",
+      "title": "solitary",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "guardin is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/guardinmusic/solitary"
+    },
+    {
+      "artist": "guardin",
+      "title": "demons in my orbit",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "guardin is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/guardinmusic/demons-in-my-orbit"
+    },
+    {
+      "artist": "guardin",
+      "title": "all i ever might be",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "guardin is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/guardinmusic/allievermightbe"
+    },
+    {
+      "artist": "glo",
+      "title": "dont gotta drop prod dev + 1jayxxl",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "glo is a top-taste anchor (affinity 1.7); taste-ranker 0.47 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/glofromda4/new-jersey-2-prod-devstacks-1jayxxl"
+    },
+    {
+      "artist": "whxami",
+      "title": "falling down again (prod. stranger)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "whxami is a top-taste anchor (affinity 1.7); taste-ranker 0.46 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/whxami/falling-down-again-prod-stranger"
+    },
+    {
+      "artist": "Xavier Wulf",
+      "title": "Xavier Wulf - Thunder Man (Prod. Shadow Grim)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Rap Rotation pickavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-thunder-man"
+    },
+    {
+      "artist": "Xavier Wulf",
+      "title": "Xavier Wulf - Akina Speed Star (Prod. KurtisBased)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Rap Rotation pickavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/xavierwulf/02-akina-speed-star"
+    },
+    {
+      "artist": "Xavier Wulf",
+      "title": "Xavier Wulf - Mobile Suit Woe (Prod. Purp Dogg)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Rap Rotation pickavier Wulf lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/xavierwulf/xavier-wulf-mobile-suit-woe"
+    },
+    {
+      "artist": "nothing,nowhere.",
+      "title": "letdown",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your nothing,nowhere. lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/nothingnowheremusic/letdown"
+    },
+    {
+      "artist": "nothing,nowhere.",
+      "title": "i'm sorry, i'm trying.",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your nothing,nowhere. lane (affinity 1.6); taste-ranker 0.40 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/nothingnowheremusic/im-sorry-im-trying"
+    },
+    {
+      "artist": "Mac Miller",
+      "title": "Self Care",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Mac Miller lane (affinity 1.6); taste-ranker 0.39 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/larryfisherman/self-care"
+    },
+    {
+      "artist": "Mac Miller",
+      "title": "Diablo (prod. Larry Fisherman)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Mac Miller lane (affinity 1.6); taste-ranker 0.39 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/larryfisherman/diablo-prod-larry-fisherman"
+    },
+    {
+      "artist": "HORSE HEAD",
+      "title": "GETTING MONEY STILL SAD TOO w/ Lil Peep (prod. Lederrick)",
+      "genre": "",
+      "mood": "Melancholy",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/horsehead1990/getting-money-still-sad-too"
+    },
+    {
+      "artist": "HORSE HEAD",
+      "title": "Time Bomb [feat Lil Peep] (prod. by fish narc)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your HORSE HEAD lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/horsehead1990/time-bomb-feat-lil-peep-prod-by-fish-narc"
+    },
+    {
+      "artist": "smrtdeath",
+      "title": "everything (prod. ka$ey) *video in description*",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your smrtdeath lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/smrtdeath/everything-prod-kaey"
+    },
+    {
+      "artist": "smrtdeath",
+      "title": "i dont feel anything (prod. trxpicvl) *video in description*",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your smrtdeath lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/smrtdeath/i-dont-feel-anything-prod-trxpicvl"
+    },
+    {
+      "artist": "WICCA PHASE SPRINGS ETERNAL",
+      "title": "STOP TORTURING ME (PROD. HORSE HEAD)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your WICCA PHASE SPRINGS ETERNAL lane (affinity 1.5); taste-ranker 0.34 (blend weight 0.4) — Alt Bangers pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/wiccaphasespringseternal/stop-torturing-me-prod-horse"
+    },
+    {
+      "artist": "Cold Hart",
+      "title": "Dying Ft Lil Peep (prod by LIL PUKE)",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "fits your Cold Hart lane (affinity 1.5); taste-ranker 0.33 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/coldhart/dying-ft-lil-peep"
+    },
+    {
+      "artist": "Witchouse 40k",
+      "title": "Chainfullafangs [prod. Havoc] videoindescription",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.52 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/hell_usa/chainfullafangs-prod-havoc"
+    },
+    {
+      "artist": "Witchouse 40k",
+      "title": "DEVIL ON MY SHOULDER",
+      "genre": "",
+      "mood": "Emotional",
+      "artwork_url": "",
+      "playlists": [
+        "RAGE"
+      ],
+      "verified_206": true,
+      "why": "Witchouse 40k is a top-taste anchor (affinity 1.9); taste-ranker 0.52 (blend weight 0.4) — Rap Rotation pick; artist's own SoundCloud, resolve+progressive verified via official api-v2",
+      "soundcloud_url": "https://soundcloud.com/hell_usa/devil-on-my-shoulder-prod-nightrdd-x-skinnydrag-x-marrow"
+    }
+  ]
 }
